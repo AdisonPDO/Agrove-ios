@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Lato-Regular.ttf">
+            <string>Lato-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="InfoPlantsView" customModule="Agrove" customModuleProvider="target">
+            <connections>
+                <outlet property="contentView" destination="UeY-fA-INa" id="YjU-I9-gKZ"/>
+                <outlet property="namePlantsLabel" destination="fzf-gP-DTO" id="AmQ-7M-oAc"/>
+                <outlet property="plantImage" destination="shH-6s-6jj" id="zwp-ku-xeI"/>
+                <outlet property="tableView" destination="zbT-lG-NrT" id="YWM-tp-xiz"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="UeY-fA-INa">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="S6t-od-c2x">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="100"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Banana" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fzf-gP-DTO">
+                            <rect key="frame" x="179" y="65" width="56" height="20"/>
+                            <fontDescription key="fontDescription" name="Lato-Regular" family="Lato" pointSize="17"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="0.47450980392156861" green="0.73725490196078436" blue="0.58039215686274503" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="100" id="AM7-QB-4kj"/>
+                        <constraint firstItem="fzf-gP-DTO" firstAttribute="centerX" secondItem="S6t-od-c2x" secondAttribute="centerX" id="GlS-TB-8wq"/>
+                        <constraint firstAttribute="bottom" secondItem="fzf-gP-DTO" secondAttribute="bottom" constant="15" id="kQV-oT-Pfr"/>
+                    </constraints>
+                </view>
+                <imageView hidden="YES" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tomate" translatesAutoresizingMaskIntoConstraints="NO" id="shH-6s-6jj" customClass="CornerImageView" customModule="Agrove" customModuleProvider="target">
+                    <rect key="frame" x="82.666666666666671" y="160" width="248.66666666666663" height="0.0"/>
+                    <constraints>
+                        <constraint firstAttribute="height" id="dmP-bB-tni"/>
+                    </constraints>
+                </imageView>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" scrollEnabled="NO" style="grouped" separatorStyle="none" allowsSelection="NO" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="18" translatesAutoresizingMaskIntoConstraints="NO" id="zbT-lG-NrT">
+                    <rect key="frame" x="0.0" y="110" width="414" height="752"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </tableView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fPd-B9-FIn"/>
+            <color key="backgroundColor" red="0.98040133709999999" green="0.9803802371" blue="0.98038440940000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <constraints>
+                <constraint firstItem="fPd-B9-FIn" firstAttribute="bottom" secondItem="zbT-lG-NrT" secondAttribute="bottom" id="1w1-eF-e72"/>
+                <constraint firstItem="shH-6s-6jj" firstAttribute="bottom" secondItem="S6t-od-c2x" secondAttribute="bottom" constant="60" id="4SP-Pe-jRg"/>
+                <constraint firstItem="zbT-lG-NrT" firstAttribute="leading" secondItem="UeY-fA-INa" secondAttribute="leading" id="A0M-bc-q7E"/>
+                <constraint firstAttribute="trailing" secondItem="zbT-lG-NrT" secondAttribute="trailing" id="Rwu-YS-19l"/>
+                <constraint firstAttribute="trailing" secondItem="S6t-od-c2x" secondAttribute="trailing" id="UHh-yo-iLH"/>
+                <constraint firstItem="shH-6s-6jj" firstAttribute="centerX" secondItem="S6t-od-c2x" secondAttribute="centerX" id="V4L-LB-6Aj"/>
+                <constraint firstItem="shH-6s-6jj" firstAttribute="width" secondItem="S6t-od-c2x" secondAttribute="width" multiplier="60%" id="YVK-aY-VUZ"/>
+                <constraint firstItem="zbT-lG-NrT" firstAttribute="top" secondItem="S6t-od-c2x" secondAttribute="bottom" constant="10" id="edy-SD-EEd"/>
+                <constraint firstItem="S6t-od-c2x" firstAttribute="top" secondItem="UeY-fA-INa" secondAttribute="top" id="f3B-Hr-nUt"/>
+                <constraint firstItem="S6t-od-c2x" firstAttribute="leading" secondItem="UeY-fA-INa" secondAttribute="leading" id="z9o-sF-p6U"/>
+            </constraints>
+            <point key="canvasLocation" x="-910.14492753623199" y="373.66071428571428"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="tomate" width="900" height="949"/>
+    </resources>
+</document>

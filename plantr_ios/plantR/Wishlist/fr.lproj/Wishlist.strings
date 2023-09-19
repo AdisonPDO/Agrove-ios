@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Tomate ananas"; ObjectID = "2D8-FR-xJy"; */
+"2D8-FR-xJy.text" = "Tomate ananas";
+
+/* Class = "UILabel"; text = "Vous n’avez enregistré aucune plante \nà votre liste d’envies pour le moment."; ObjectID = "389-cf-8ZS"; */
+"389-cf-8ZS.text" = "Vous n’avez enregistré aucune plante \nà votre liste d’envies pour le moment.";
+
+/* Class = "UILabel"; text = "Patience, ce n’est pas encore la saison !"; ObjectID = "473-jK-fil"; */
+"473-jK-fil.text" = "Patience, ce n’est pas encore la saison !";
+
+/* Class = "UILabel"; text = "Choisissez un emplacement libre :"; ObjectID = "B5a-6y-0yX"; */
+"B5a-6y-0yX.text" = "Choisissez un emplacement libre :";
+
+/* Class = "UILabel"; text = "Tomate ananas"; ObjectID = "DDd-QZ-d0b"; */
+"DDd-QZ-d0b.text" = "Tomate ananas";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "E75-Rx-I1P"; */
+"E75-Rx-I1P.text" = "label";
+
+/* Class = "UIButton"; normalTitle = "Ajouter"; ObjectID = "HtK-5T-8WD"; */
+"HtK-5T-8WD.normalTitle" = "Ajouter";
+
+/* Class = "UILabel"; text = "Ajouter une plante \ndepuis mes envies"; ObjectID = "MF2-NT-fa1"; */
+"MF2-NT-fa1.text" = "Ajouter une plante \ndepuis mes envies";
+
+/* Class = "UILabel"; text = "Où souhaitez-vous planter votre Ail"; ObjectID = "VaB-Hk-eo2"; */
+"VaB-Hk-eo2.text" = "Où souhaitez-vous planter votre Ail";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "WbH-7y-RCh"; */
+"WbH-7y-RCh.text" = "label";
+
+/* Class = "UILabel"; text = "Mes envies"; ObjectID = "q0v-kQ-9Cn"; */
+"q0v-kQ-9Cn.text" = "Mes envies";
+
+/* Class = "UILabel"; text = "Ajoutez ici vos plantes favorites pour recevoir des rappels pour les semer ou les planter dès que ce sera la bonne saison !"; ObjectID = "xe3-fp-vpd"; */
+"xe3-fp-vpd.text" = "Ajoutez ici vos plantes favorites pour recevoir des rappels pour les semer ou les planter dès que ce sera la bonne saison !";
+
+/* Class = "UILabel"; text = "C’est la bonne saison ! Ajoutez ces variétés :"; ObjectID = "zFT-dE-kaJ"; */
+"zFT-dE-kaJ.text" = "C’est la bonne saison ! Ajoutez ces variétés :";

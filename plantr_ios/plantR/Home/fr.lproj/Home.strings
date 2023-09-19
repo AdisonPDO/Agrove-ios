@@ -1,0 +1,216 @@
+
+/* Class = "UIButton"; normalTitle = "Modifier"; ObjectID = "0gB-xX-HWN"; */
+"0gB-xX-HWN.normalTitle" = "Modifier";
+
+/* Class = "UIButton"; normalTitle = "S'abonner à ce potager"; ObjectID = "16c-4s-aGy"; */
+"16c-4s-aGy.normalTitle" = "S'abonner à ce potager";
+
+/* Class = "UITextField"; placeholder = "Veuillez selectionner l'orientation du soleil"; ObjectID = "1yl-tM-Xhe"; */
+"1yl-tM-Xhe.placeholder" = "Veuillez selectionner l'orientation du soleil";
+
+/* Class = "UILabel"; text = "Ville"; ObjectID = "2iQ-sd-yed"; */
+"2iQ-sd-yed.text" = "Ville";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2tV-BC-Mya"; */
+"2tV-BC-Mya.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Prenom Nom"; ObjectID = "3jA-Yc-ZIb"; */
+"3jA-Yc-ZIb.text" = "Prenom Nom";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "3wU-eN-QSU"; */
+"3wU-eN-QSU.text" = "M";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4OF-Q8-LyH"; */
+"4OF-Q8-LyH.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "6QA-Wg-gJQ"; */
+"6QA-Wg-gJQ.text" = "1";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "75K-5f-VtO"; */
+"75K-5f-VtO.text" = "1";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "7lB-fg-2XJ"; */
+"7lB-fg-2XJ.text" = "D";
+
+/* Class = "UIButton"; normalTitle = "Mes plantes"; ObjectID = "8T4-IW-9OX"; */
+"8T4-IW-9OX.normalTitle" = "Mes plantes";
+
+/* Class = "UILabel"; text = "TEST LABEL"; ObjectID = "8dI-Tq-bdk"; */
+"8dI-Tq-bdk.text" = "TEST LABEL";
+
+/* Class = "UITextField"; placeholder = "Saissez votre mot de passe"; ObjectID = "BMA-Ub-k4a"; */
+"BMA-Ub-k4a.placeholder" = "Saissez votre mot de passe";
+
+/* Class = "UITextField"; placeholder = "Saissez votre nouveau mot de passe"; ObjectID = "CID-5T-udK"; */
+"CID-5T-udK.placeholder" = "Saissez votre nouveau mot de passe";
+
+/* Class = "UITextField"; placeholder = "Veuillez selectionner un emplacement"; ObjectID = "Ceo-Jk-6O3"; */
+"Ceo-Jk-6O3.placeholder" = "Veuillez selectionner un emplacement";
+
+/* Class = "UILabel"; text = "Nouveau mot de passe"; ObjectID = "CsU-6A-xlo"; */
+"CsU-6A-xlo.text" = "Nouveau mot de passe";
+
+/* Class = "UILabel"; text = " Partager la jardinière"; ObjectID = "DeT-hf-j4Q"; */
+"DeT-hf-j4Q.text" = " Partager la jardinière";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Efe-GT-UYt"; */
+"Efe-GT-UYt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Mes informations"; ObjectID = "F4v-1R-A1y"; */
+"F4v-1R-A1y.text" = "Mes informations";
+
+/* Class = "UILabel"; text = "Prenom Nom"; ObjectID = "F8x-II-Aa3"; */
+"F8x-II-Aa3.text" = "Prenom Nom";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FE4-z0-buf"; */
+"FE4-z0-buf.text" = "Label";
+
+/* Class = "UILabel"; text = "Une équipe de jardiniers est déjà aux petits soins pour ce potager!"; ObjectID = "FMS-B1-Ncy"; */
+"FMS-B1-Ncy.text" = "Une équipe de jardiniers est déjà aux petits soins pour ce potager!";
+
+/* Class = "UILabel"; text = "J"; ObjectID = "Faw-D9-zKm"; */
+"Faw-D9-zKm.text" = "J";
+
+/* Class = "UILabel"; text = "Mes potagers"; ObjectID = "GY6-lL-IIb"; */
+"GY6-lL-IIb.text" = "Mes potagers";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "GeM-k7-2hr"; */
+"GeM-k7-2hr.text" = "1";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "Gvp-B3-6md"; */
+"Gvp-B3-6md.text" = "M";
+
+/* Class = "UITextField"; placeholder = "Nom de la jardinière"; ObjectID = "IOF-Lu-mmw"; */
+"IOF-Lu-mmw.placeholder" = "Nom de la jardinière";
+
+/* Class = "UITextField"; placeholder = "Nom de la ville"; ObjectID = "Inr-eI-Ym0"; */
+"Inr-eI-Ym0.placeholder" = "Nom de la ville";
+
+/* Class = "UILabel"; text = "Dénomination"; ObjectID = "MCc-yA-zbv"; */
+"MCc-yA-zbv.text" = "Dénomination";
+
+/* Class = "UILabel"; text = "Mon future potager"; ObjectID = "MHd-r8-KqT"; */
+"MHd-r8-KqT.text" = "Mon future potager";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nyg-uU-oeA"; */
+"Nyg-uU-oeA.text" = "Label";
+
+/* Class = "UILabel"; text = "V"; ObjectID = "OZ9-Ud-4fm"; */
+"OZ9-Ud-4fm.text" = "V";
+
+/* Class = "UILabel"; text = "Adresse"; ObjectID = "PZt-PY-IhZ"; */
+"PZt-PY-IhZ.text" = "Adresse";
+
+/* Class = "UILabel"; text = "Emplacement"; ObjectID = "Pru-Ko-2O8"; */
+"Pru-Ko-2O8.text" = "Emplacement";
+
+/* Class = "UILabel"; text = "Mes plantes"; ObjectID = "Qnf-n2-sLW"; */
+"Qnf-n2-sLW.text" = "Mes plantes";
+
+/* Class = "UITextField"; placeholder = "Adresse mail"; ObjectID = "SLR-Kj-W8v"; */
+"SLR-Kj-W8v.placeholder" = "Adresse mail";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "TFW-1g-eyA"; */
+"TFW-1g-eyA.text" = "S";
+
+/* Class = "UILabel"; text = "Souhaitez-vous suivre son évolution ?"; ObjectID = "Uwn-Gm-v9p"; */
+"Uwn-Gm-v9p.text" = "Souhaitez-vous suivre son évolution ?";
+
+/* Class = "UILabel"; text = "Niveau"; ObjectID = "Wba-iW-a5M"; */
+"Wba-iW-a5M.text" = "Niveau";
+
+/* Class = "UILabel"; text = "Jean Dupont"; ObjectID = "Wim-VN-Rx8"; */
+"Wim-VN-Rx8.text" = "Jean Dupont";
+
+/* Class = "UITextField"; placeholder = "Adresse de la jardiniere"; ObjectID = "XgJ-ug-CM2"; */
+"XgJ-ug-CM2.placeholder" = "Adresse de la jardiniere";
+
+/* Class = "UIButton"; normalTitle = "Mon équipe"; ObjectID = "Y4i-Dx-nhb"; */
+"Y4i-Dx-nhb.normalTitle" = "Mon équipe";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aNy-dw-4lH"; */
+"aNy-dw-4lH.text" = "Label";
+
+/* Class = "UILabel"; text = "Titre"; ObjectID = "bhe-Lr-zHq"; */
+"bhe-Lr-zHq.text" = "Titre";
+
+/* Class = "UIButton"; normalTitle = "Demander à rejoindre l'équipe"; ObjectID = "cNx-lV-MGP"; */
+"cNx-lV-MGP.normalTitle" = "Demander à rejoindre l'équipe";
+
+/* Class = "UITextView"; text = "Ces informations nous permettront de vous suggérer des plantes adaptées à votre environnement : \n●  si vous avez opté pour un potager classique\nou \n● dès le premier jour de mise en fonctionnement de votre kit potager connecté. Ensuite, lorsque les capteurs de climat auront eu le temps de collecter suffisamment de données sur votre environnement, les suggestions seront affinées."; ObjectID = "da8-nw-I0N"; */
+"da8-nw-I0N.text" = "Ces informations nous permettront de vous suggérer des plantes adaptées à votre environnement : \n●  si vous avez opté pour un potager classique\nou \n● dès le premier jour de mise en fonctionnement de votre kit potager connecté. Ensuite, lorsque les capteurs de climat auront eu le temps de collecter suffisamment de données sur votre environnement, les suggestions seront affinées.";
+
+/* Class = "UIButton"; normalTitle = "Mon potager"; ObjectID = "fFD-Zt-EcH"; */
+"fFD-Zt-EcH.normalTitle" = "Mon potager";
+
+/* Class = "UILabel"; text = "Etage 1"; ObjectID = "gTf-aj-LFV"; */
+"gTf-aj-LFV.text" = "Etage 1";
+
+/* Class = "UILabel"; text = "Mes missions"; ObjectID = "i5s-na-8HI"; */
+"i5s-na-8HI.text" = "Mes missions";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "iLS-56-LYW"; */
+"iLS-56-LYW.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iXy-TR-1u0"; */
+"iXy-TR-1u0.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ihM-0c-4rH"; */
+"ihM-0c-4rH.text" = "Label";
+
+/* Class = "UILabel"; text = "Informations de ma jardinière"; ObjectID = "jjr-Fy-bXy"; */
+"jjr-Fy-bXy.text" = "Informations de ma jardinière";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "khn-MF-scK"; */
+"khn-MF-scK.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Demander à rejoindre l'équipe"; ObjectID = "lpS-it-QRz"; */
+"lpS-it-QRz.normalTitle" = "Demander à rejoindre l'équipe";
+
+/* Class = "UIButton"; normalTitle = "Mes abonnements"; ObjectID = "m4f-m4-FZ6"; */
+"m4f-m4-FZ6.normalTitle" = "Mes abonnements";
+
+/* Class = "UILabel"; text = "Mes abonnements"; ObjectID = "nR8-l5-keH"; */
+"nR8-l5-keH.text" = "Mes abonnements";
+
+/* Class = "UIButton"; normalTitle = "Modifier"; ObjectID = "onH-Hz-OIj"; */
+"onH-Hz-OIj.normalTitle" = "Modifier";
+
+/* Class = "UILabel"; text = "Ancien mot de passe"; ObjectID = "pQq-4O-Kk6"; */
+"pQq-4O-Kk6.text" = "Ancien mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Mes missions"; ObjectID = "pZN-VB-Xxe"; */
+"pZN-VB-Xxe.normalTitle" = "Mes missions";
+
+/* Class = "UILabel"; text = "Orientation du soleil"; ObjectID = "qAp-5u-dYx"; */
+"qAp-5u-dYx.text" = "Orientation du soleil";
+
+/* Class = "UILabel"; text = "Veuillez sélectionner une date dans le future / avez-vous rajouté des plantes ?"; ObjectID = "qvM-ZC-dmR"; */
+"qvM-ZC-dmR.text" = "Veuillez sélectionner une date dans le future / avez-vous rajouté des plantes ?";
+
+/* Class = "UITextField"; placeholder = "Votre recherche"; ObjectID = "rVf-NT-JF7"; */
+"rVf-NT-JF7.placeholder" = "Votre recherche";
+
+/* Class = "UIButton"; normalTitle = "Retirer ce potager"; ObjectID = "sam-x2-C3B"; */
+"sam-x2-C3B.normalTitle" = "Retirer ce potager";
+
+/* Class = "UILabel"; text = "Etage 1"; ObjectID = "sdT-9E-b8z"; */
+"sdT-9E-b8z.text" = "Etage 1";
+
+/* Class = "UILabel"; text = "Ensoleillement"; ObjectID = "tZQ-ZV-T9N"; */
+"tZQ-ZV-T9N.text" = "Ensoleillement";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "u02-LS-FhN"; */
+"u02-LS-FhN.text" = "L";
+
+/* Class = "UITextField"; placeholder = "Veuillez selectionner un ensoleillement"; ObjectID = "vl9-mx-rjQ"; */
+"vl9-mx-rjQ.placeholder" = "Veuillez selectionner un ensoleillement";
+
+/* Class = "UILabel"; text = "Mail"; ObjectID = "w0L-Lr-MN4"; */
+"w0L-Lr-MN4.text" = "Mail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xyO-YX-FIs"; */
+"xyO-YX-FIs.text" = "Label";
+
+/* Class = "UILabel"; text = "Prenom Nom"; ObjectID = "yGT-1o-ajy"; */
+"yGT-1o-ajy.text" = "Prenom Nom";

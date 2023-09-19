@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Tomate ananas"; ObjectID = "2D8-FR-xJy"; */
+"2D8-FR-xJy.text" = "Pineapple tomato";
+
+/* Class = "UILabel"; text = "Vous n’avez enregistré aucune plante \nà votre liste d’envies pour le moment."; ObjectID = "389-cf-8ZS"; */
+"389-cf-8ZS.text" = "You have not saved any plants to your wish list yet.";
+
+/* Class = "UILabel"; text = "Patience, ce n’est pas encore la saison !"; ObjectID = "473-jK-fil"; */
+"473-jK-fil.text" = "Patience, it's not the season yet!";
+
+/* Class = "UILabel"; text = "Choisissez un emplacement libre :"; ObjectID = "B5a-6y-0yX"; */
+"B5a-6y-0yX.text" = "Choose a free location";
+
+/* Class = "UILabel"; text = "Tomate ananas"; ObjectID = "DDd-QZ-d0b"; */
+"DDd-QZ-d0b.text" = "Pineapple tomato";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "E75-Rx-I1P"; */
+"E75-Rx-I1P.text" = "label";
+
+/* Class = "UIButton"; normalTitle = "Ajouter"; ObjectID = "HtK-5T-8WD"; */
+"HtK-5T-8WD.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Ajouter une plante \ndepuis mes envies"; ObjectID = "MF2-NT-fa1"; */
+"MF2-NT-fa1.text" = "Add a plant from my wishlist";
+
+/* Class = "UILabel"; text = "Où souhaitez-vous planter votre Ail"; ObjectID = "VaB-Hk-eo2"; */
+"VaB-Hk-eo2.text" = "Where do you want to plant your garlic";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "WbH-7y-RCh"; */
+"WbH-7y-RCh.text" = "label";
+
+/* Class = "UILabel"; text = "Mes envies"; ObjectID = "q0v-kQ-9Cn"; */
+"q0v-kQ-9Cn.text" = "My wishes";
+
+/* Class = "UILabel"; text = "Ajoutez ici vos plantes favorites pour recevoir des rappels pour les semer ou les planter dès que ce sera la bonne saison !"; ObjectID = "xe3-fp-vpd"; */
+"xe3-fp-vpd.text" = "Add your favorite plants here to receive reminders to sow or plant them when it's the right season!";
+
+/* Class = "UILabel"; text = "C’est la bonne saison ! Ajoutez ces variétés :"; ObjectID = "zFT-dE-kaJ"; */
+"zFT-dE-kaJ.text" = "It's the right season! Add these varieties :";

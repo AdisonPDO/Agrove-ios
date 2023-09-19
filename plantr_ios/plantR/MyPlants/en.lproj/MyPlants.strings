@@ -1,0 +1,93 @@
+
+/* Class = "UITextField"; placeholder = "Toutes les plantes"; ObjectID = "0ku-QK-nAG"; */
+"0ku-QK-nAG.placeholder" = "All plants";
+
+/* Class = "UILabel"; text = "Occupation"; ObjectID = "1Ib-FQ-vxK"; */
+"1Ib-FQ-vxK.text" = "Occupation";
+
+/* Class = "UILabel"; text = "début"; ObjectID = "3G3-p9-RLI"; */
+"3G3-p9-RLI.text" = "Start";
+
+/* Class = "UILabel"; text = "Ajouter une plante"; ObjectID = "4fL-L0-Aqa"; */
+"4fL-L0-Aqa.text" = "Add a plant";
+
+/* Class = "UILabel"; text = "Pas de plante trouvée !"; ObjectID = "4pr-DH-IjU"; */
+"4pr-DH-IjU.text" = "No plant found!";
+
+/* Class = "UILabel"; text = "Ajouter une plante"; ObjectID = "5wU-tE-lxI"; */
+"5wU-tE-lxI.text" = "Add a plant";
+
+/* Class = "UILabel"; text = "Rechercher une plante"; ObjectID = "7x0-QD-05r"; */
+"7x0-QD-05r.text" = "Search a plant";
+
+/* Class = "UILabel"; text = "Tomate cerise"; ObjectID = "E9N-IR-4ra"; */
+"E9N-IR-4ra.text" = "Cherry tomato";
+
+/* Class = "UILabel"; text = "Voir les missions du moment"; ObjectID = "JcK-vs-vXY"; */
+"JcK-vs-vXY.text" = "See the current missions";
+
+/* Class = "UILabel"; text = "mois"; ObjectID = "MJy-u4-oeX"; */
+"MJy-u4-oeX.text" = "monts";
+
+/* Class = "UILabel"; text = "Numéro étage"; ObjectID = "Oez-N5-0db"; */
+"Oez-N5-0db.text" = "Floor number";
+
+/* Class = "UILabel"; text = "fin"; ObjectID = "Pzd-fq-cPA"; */
+"Pzd-fq-cPA.text" = "end";
+
+/* Class = "UIButton"; normalTitle = "Ajouter"; ObjectID = "Sva-if-ooK"; */
+"Sva-if-ooK.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "La taille des fruits varie de celle d'une cerise à celle d'une balle de golf."; ObjectID = "WP6-TC-hUD"; */
+"WP6-TC-hUD.text" = "The size of the fruit varies from a cherry to a golf ball.";
+
+/* Class = "UIButton"; normalTitle = "Votre recherche"; ObjectID = "Zte-J2-1zN"; */
+"Zte-J2-1zN.normalTitle" = "Your search";
+
+/* Class = "UIButton"; normalTitle = "Confirmer"; ObjectID = "ctv-fY-i4m"; */
+"ctv-fY-i4m.normalTitle" = "Confirm";
+
+/* Class = "UIButton"; normalTitle = "Supprimer la plante"; ObjectID = "f4F-Bv-Upx"; */
+"f4F-Bv-Upx.normalTitle" = "Remove the plant";
+
+/* Class = "UILabel"; text = "Tomate ananas"; ObjectID = "fNL-78-eIJ"; */
+"fNL-78-eIJ.text" = "Pineapple tomato";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "fti-fN-WVq"; */
+"fti-fN-WVq.text" = "label";
+
+/* Class = "UILabel"; text = "Nom + Etage"; ObjectID = "gKv-Qy-yxp"; */
+"gKv-Qy-yxp.text" = "Name + Floor";
+
+/* Class = "UILabel"; text = "Progression"; ObjectID = "glH-cm-iWa"; */
+"glH-cm-iWa.text" = "Progression";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "gmJ-YF-qzE"; */
+"gmJ-YF-qzE.text" = "label";
+
+/* Class = "UILabel"; text = "Les suggestions du moment"; ObjectID = "hHS-ny-bkb"; */
+"hHS-ny-bkb.text" = "Our suggestions";
+
+/* Class = "UIButton"; normalTitle = "Consulter"; ObjectID = "hKg-Np-d6h"; */
+"hKg-Np-d6h.normalTitle" = "Have a look ";
+
+/* Class = "UITextField"; placeholder = "Votre recherche"; ObjectID = "iii-cH-vvP"; */
+"iii-cH-vvP.placeholder" = "Your search";
+
+/* Class = "UILabel"; text = "Etage"; ObjectID = "kIm-Ef-nnb"; */
+"kIm-Ef-nnb.text" = "Floor";
+
+/* Class = "UILabel"; text = "Renommer "; ObjectID = "qXD-rA-nbk"; */
+"qXD-rA-nbk.text" = "Rename ";
+
+/* Class = "UILabel"; text = "Tomate cerise"; ObjectID = "tXr-Jd-CjX"; */
+"tXr-Jd-CjX.text" = "Cherry tomato";
+
+/* Class = "UILabel"; text = "Quis dictum massa maximus non. Proin dictum eget nisl ut Quis dictum massa maximus non. Proin dictum eget nisl ut laoreet.  Quis dictum massa maximus non. Proin dictum eget laoreet. "; ObjectID = "vLr-Dz-w0h"; */
+"vLr-Dz-w0h.text" = "Quis dictum massa maximus non. Proin dictum eget nisl ut Quis dictum massa maximus non. Proin dictum eget nisl ut laoreet.  Quis dictum massa maximus non. Proin dictum eget laoreet. ";
+
+/* Class = "UITextField"; placeholder = "Optionnel"; ObjectID = "vk0-iM-CkC"; */
+"vk0-iM-CkC.placeholder" = "Optional";
+
+/* Class = "UILabel"; text = "Ajouter une plante"; ObjectID = "vyv-1k-GEv"; */
+"vyv-1k-GEv.text" = "Add a plant";

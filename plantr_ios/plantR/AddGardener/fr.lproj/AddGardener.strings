@@ -1,0 +1,204 @@
+
+/* Class = "UILabel"; text = "Vous dorénavant passez aux étapes suivantes afin de paramétrer votre jardinière."; ObjectID = "0EV-FH-aMO"; */
+"0EV-FH-aMO.text" = "Vous dorénavant passez aux étapes suivantes afin de paramétrer votre jardinière.";
+
+/* Class = "UIButton"; normalTitle = "Valider"; ObjectID = "18s-av-dI5"; */
+"18s-av-dI5.normalTitle" = "Valider";
+
+/* Class = "UITextField"; placeholder = "Veuillez selectionner un emplacement"; ObjectID = "1QL-YI-sIe"; */
+"1QL-YI-sIe.placeholder" = "Veuillez selectionner un emplacement";
+
+/* Class = "UILabel"; text = "Ajouter un potager"; ObjectID = "2XV-Zn-Use"; */
+"2XV-Zn-Use.text" = "Ajouter un potager";
+
+/* Class = "UITextField"; placeholder = "Nom du kit"; ObjectID = "2mJ-Iu-U5Z"; */
+"2mJ-Iu-U5Z.placeholder" = "Nom du kit";
+
+/* Class = "UILabel"; text = "Ensoleillement"; ObjectID = "7ca-Be-sZB"; */
+"7ca-Be-sZB.text" = "Ensoleillement";
+
+/* Class = "UILabel"; text = "Quel kit potager Agrove voulez-vous ajouter ?"; ObjectID = "9NU-3a-xnx"; */
+"9NU-3a-xnx.text" = "Quel kit potager Agrove voulez-vous ajouter ?";
+
+/* Class = "UILabel"; text = "Jumelage de la jardinière"; ObjectID = "AwQ-e2-ucd"; */
+"AwQ-e2-ucd.text" = "Jumelage de la jardinière";
+
+/* Class = "UILabel"; text = "Le kit clé en main"; ObjectID = "Bgs-Ln-XqE"; */
+"Bgs-Ln-XqE.text" = "Le kit clé en main";
+
+/* Class = "UITextField"; placeholder = "Nom du kit"; ObjectID = "C6a-p1-7Kt"; */
+"C6a-p1-7Kt.placeholder" = "Nom du kit";
+
+/* Class = "UIButton"; normalTitle = "Suivant"; ObjectID = "Cy7-Ki-4ac"; */
+"Cy7-Ki-4ac.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Jumelage de la jardinière"; ObjectID = "Fba-Tv-c8I"; */
+"Fba-Tv-c8I.text" = "Jumelage de la jardinière";
+
+/* Class = "UILabel"; text = "Réglage de mon potager"; ObjectID = "GLP-zC-OD4"; */
+"GLP-zC-OD4.text" = "Réglage de mon potager";
+
+/* Class = "UILabel"; text = "Choisissez un type de potager :"; ObjectID = "JI3-yw-jx6"; */
+"JI3-yw-jx6.text" = "Choisissez un type de potager :";
+
+/* Class = "UITextField"; placeholder = "Ma jardinière"; ObjectID = "Jzk-aR-Ads"; */
+"Jzk-aR-Ads.placeholder" = "Ma jardinière";
+
+/* Class = "UITextField"; placeholder = "Veuillez selectionner l'orientation du soleil"; ObjectID = "K2E-s7-Mys"; */
+"K2E-s7-Mys.placeholder" = "Veuillez selectionner l'orientation du soleil";
+
+/* Class = "UILabel"; text = "Pot"; ObjectID = "L3I-7F-eZW"; */
+"L3I-7F-eZW.text" = "Pot";
+
+/* Class = "UILabel"; text = "Informations de ma jardinière"; ObjectID = "LyE-vM-JQM"; */
+"LyE-vM-JQM.text" = "Informations de ma jardinière";
+
+/* Class = "UILabel"; text = "Votre jardinière a bien été ajoutée !"; ObjectID = "N8W-gn-3CA"; */
+"N8W-gn-3CA.text" = "Votre jardinière a bien été ajoutée !";
+
+/* Class = "UILabel"; text = "Le kit clé en main"; ObjectID = "NEu-bk-HOe"; */
+"NEu-bk-HOe.text" = "Le kit clé en main";
+
+/* Class = "UILabel"; text = "Emplacement"; ObjectID = "NH4-pI-uwy"; */
+"NH4-pI-uwy.text" = "Emplacement";
+
+/* Class = "UILabel"; text = "Ajouter un potager"; ObjectID = "Nab-0r-e8R"; */
+"Nab-0r-e8R.text" = "Ajouter un potager";
+
+/* Class = "UITextField"; placeholder = "Veuillez selectionner un emplacement"; ObjectID = "PEm-Qv-2oP"; */
+"PEm-Qv-2oP.placeholder" = "Veuillez selectionner un emplacement";
+
+/* Class = "UITextField"; placeholder = "Nom de la ville"; ObjectID = "PLu-v8-7Mb"; */
+"PLu-v8-7Mb.placeholder" = "Nom du pays";
+
+/* Class = "UILabel"; text = "Sélectionnez le type de pot dans lequel vous allez planter votre kit capteur :"; ObjectID = "Ppn-CR-Qvd"; */
+"Ppn-CR-Qvd.text" = "Sélectionnez le type de pot dans lequel vous allez planter votre kit capteur :";
+
+/* Class = "UILabel"; text = "Adresse"; ObjectID = "Px5-UY-Man"; */
+"Px5-UY-Man.text" = "Code Postal";
+
+/* Class = "UITextField"; placeholder = "Adresse de la jardiniere"; ObjectID = "Rud-6g-Uu9"; */
+"Rud-6g-Uu9.placeholder" = "Code postal de la jardinière";
+
+/* Class = "UILabel"; text = "Configurez votre kit Agrove"; ObjectID = "SJv-Rd-ERT"; */
+"SJv-Rd-ERT.text" = "Configurez votre kit Agrove";
+
+/* Class = "UILabel"; text = "Informations de ma jardinière"; ObjectID = "SR4-PV-HUv"; */
+"SR4-PV-HUv.text" = "Informations de ma jardinière";
+
+/* Class = "UILabel"; text = "Ajouter un potager"; ObjectID = "Tpd-8G-w6s"; */
+"Tpd-8G-w6s.text" = "Ajouter un potager";
+
+/* Class = "UIButton"; normalTitle = "Suivant"; ObjectID = "WiO-KE-fcy"; */
+"WiO-KE-fcy.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Orientation du soleil"; ObjectID = "Wkt-2W-uVs"; */
+"Wkt-2W-uVs.text" = "Orientation du soleil";
+
+/* Class = "UILabel"; text = "Ajouter un potager"; ObjectID = "XZc-Ce-bQZ"; */
+"XZc-Ce-bQZ.text" = "Ajouter un potager";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YBj-hK-v5l"; */
+"YBj-hK-v5l.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Scanner la jardinière"; ObjectID = "Z8m-Qf-Tih"; */
+"Z8m-Qf-Tih.normalTitle" = "Scanner la jardinière";
+
+/* Class = "UIButton"; normalTitle = "Ajouter"; ObjectID = "Zl8-xp-WLf"; */
+"Zl8-xp-WLf.normalTitle" = "Ajouter";
+
+/* Class = "UILabel"; text = "Pour ajouter une jardinière veuillez scanner le QR Code situé sur cette dernière"; ObjectID = "a7D-mT-i4w"; */
+"a7D-mT-i4w.text" = "Pour ajouter une jardinière veuillez scanner le QR Code situé sur cette dernière";
+
+/* Class = "UILabel"; text = "Ajouter un potager"; ObjectID = "bY6-TS-bmH"; */
+"bY6-TS-bmH.text" = "Ajouter un potager";
+
+/* Class = "UILabel"; text = "Ville"; ObjectID = "c2d-gI-M4e"; */
+"c2d-gI-M4e.text" = "Pays";
+
+/* Class = "UILabel"; text = "Pour la première connexion, vous devez vous connecter à la Jardinière en scannant le QR Code situé sur cette dernière"; ObjectID = "dP0-C2-amB"; */
+"dP0-C2-amB.text" = "Pour la première connexion, vous devez vous connecter à la Jardinière en scannant le QR Code situé sur cette dernière";
+
+/* Class = "UITextField"; placeholder = "Veuillez selectionner l'orientation du soleil"; ObjectID = "dac-UE-WUp"; */
+"dac-UE-WUp.placeholder" = "Veuillez selectionner l'orientation du soleil";
+
+/* Class = "UILabel"; text = "Configurez votre kit Agrove"; ObjectID = "e7H-Be-yYo"; */
+"e7H-Be-yYo.text" = "Configurez votre kit Agrove";
+
+/* Class = "UILabel"; text = "Où se situe la jardinière"; ObjectID = "efo-12-BXk"; */
+"efo-12-BXk.text" = "Où se situe la jardinière";
+
+/* Class = "UILabel"; text = "Emplacement"; ObjectID = "ene-fZ-cvf"; */
+"ene-fZ-cvf.text" = "Emplacement";
+
+/* Class = "UILabel"; text = "Adresse"; ObjectID = "ew0-H7-tCL"; */
+"ew0-H7-tCL.text" = "Code postal";
+
+/* Class = "UILabel"; text = "Ajouter une jardinière"; ObjectID = "fNK-Th-eQs"; */
+"fNK-Th-eQs.text" = "Ajouter une jardinière";
+
+/* Class = "UITextField"; placeholder = "Adresse de la jardiniere"; ObjectID = "fpw-7p-Xbe"; */
+"fpw-7p-Xbe.placeholder" = "Code postal de la jardiniere";
+
+/* Class = "UITextField"; placeholder = "Nom de la ville"; ObjectID = "fwb-CU-VRU"; */
+"fwb-CU-VRU.placeholder" = "Nom du pays";
+
+/* Class = "UIButton"; normalTitle = "Scanner"; ObjectID = "g0r-E8-mo3"; */
+"g0r-E8-mo3.normalTitle" = "Scanner";
+
+/* Class = "UITextField"; placeholder = "Ensoleillement"; ObjectID = "ghj-8c-3Cu"; */
+"ghj-8c-3Cu.placeholder" = "Ensoleillement";
+
+/* Class = "UILabel"; text = "Ajouter un potager"; ObjectID = "h2g-Sr-hpd"; */
+"h2g-Sr-hpd.text" = "Ajouter un potager";
+
+/* Class = "UILabel"; text = "Pour la première connexion, vous devez vous connecter à la Jardinière en scannant le QR Code situé sur cette dernière"; ObjectID = "heZ-eL-itR"; */
+"heZ-eL-itR.text" = "Pour la première connexion, vous devez vous connecter à la Jardinière en scannant le QR Code situé sur cette dernière";
+
+/* Class = "UILabel"; text = "Renommez votre kit"; ObjectID = "jcJ-bL-3Ym"; */
+"jcJ-bL-3Ym.text" = "Renommez votre kit";
+
+/* Class = "UILabel"; text = "Jusqu'à"; ObjectID = "kAP-Pr-Vtn"; */
+"kAP-Pr-Vtn.text" = "Jusqu'à";
+
+/* Class = "UITextField"; placeholder = "Ville"; ObjectID = "mNS-vL-FEz"; */
+"mNS-vL-FEz.placeholder" = "Pays";
+
+/* Class = "UILabel"; text = "Renommez votre kit"; ObjectID = "meh-ZX-icP"; */
+"meh-ZX-icP.text" = "Renommez votre kit";
+
+/* Class = "UILabel"; text = "Pour scanner le QR Code, veuillez utiliser la camera de votre téléphone. Pour y accéder cliquer sur le bouton ci-dessous "; ObjectID = "mm7-DN-rdo"; */
+"mm7-DN-rdo.text" = "Pour scanner le QR Code, veuillez utiliser la camera de votre téléphone. Pour y accéder cliquer sur le bouton ci-dessous ";
+
+/* Class = "UILabel"; text = "Ensoleillement"; ObjectID = "oej-FJ-jpS"; */
+"oej-FJ-jpS.text" = "Ensoleillement";
+
+/* Class = "UILabel"; text = "Souhaitez-vous lui donner un nom?"; ObjectID = "qXQ-kU-JHE"; */
+"qXQ-kU-JHE.text" = "Souhaitez-vous lui donner un nom?";
+
+/* Class = "UILabel"; text = "Félicitations !\nVotre jardinière est correctement configurée"; ObjectID = "qdG-8Q-bxY"; */
+"qdG-8Q-bxY.text" = "Félicitations !\nVotre jardinière est correctement configurée";
+
+/* Class = "UIButton"; normalTitle = "Valider"; ObjectID = "snG-Rr-ELR"; */
+"snG-Rr-ELR.normalTitle" = "Valider";
+
+/* Class = "UILabel"; text = "Ville"; ObjectID = "tWZ-6i-lcr"; */
+"tWZ-6i-lcr.text" = "Pays";
+
+/* Class = "UILabel"; text = "Orientation du soleil"; ObjectID = "tyY-1c-y8S"; */
+"tyY-1c-y8S.text" = "Orientation du soleil";
+
+/* Class = "UIButton"; normalTitle = "Terminer"; ObjectID = "v8b-7S-OaU"; */
+"v8b-7S-OaU.normalTitle" = "Terminer";
+
+/* Class = "UITextField"; placeholder = "Ensoleillement"; ObjectID = "x1f-xM-BqP"; */
+"x1f-xM-BqP.placeholder" = "Ensoleillement";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xnU-qs-5pJ"; */
+"xnU-qs-5pJ.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Adresse de la jardiniere"; ObjectID = "yXq-MM-03m"; */
+"yXq-MM-03m.placeholder" = "Code postal de la jardiniere";
+
+/* Class = "UILabel"; text = "Quel kit potager Agrove voulez-vous ajouter ?"; ObjectID = "zZK-si-JR5"; */
+"zZK-si-JR5.text" = "Quel kit potager Agrove voulez-vous ajouter ?";

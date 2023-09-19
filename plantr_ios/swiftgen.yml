@@ -1,0 +1,15 @@
+output_dir: plantR/Supporting Files/Generated
+xcassets:
+  inputs:
+    - plantR/Supporting Files/Assets.xcassets
+  outputs:
+    - templateName: swift4
+      output: UIImage+Assets.swift
+ib:
+  inputs:
+    - plantR
+  outputs:
+    - templateName: scenes-swift4
+      output: Storyboard+Scenes.swift
+    - templateName: segues-swift4
+      output: Storyboard+Segues.swift

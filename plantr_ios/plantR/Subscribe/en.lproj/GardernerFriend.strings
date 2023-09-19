@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Le code d'invitation est disponible dans le profil de la personne qui détient la jardinière ou il vous a été envoyé par email / message"; ObjectID = "4dc-0Q-qq6"; */
+"4dc-0Q-qq6.text" = "The invitation code is available in the profile of the person who owns the planter or it was sent to you by email / message";
+
+/* Class = "UILabel"; text = "Jardinière"; ObjectID = "A1s-aP-iaz"; */
+"A1s-aP-iaz.text" = "Planter";
+
+/* Class = "UILabel"; text = "Jardinière \nBalcon"; ObjectID = "DUP-fx-0ls"; */
+"DUP-fx-0ls.text" = "Planter \nBalcon";
+
+/* Class = "UILabel"; text = "Prenom Nom"; ObjectID = "Q7w-li-x7b"; */
+"Q7w-li-x7b.text" = "First Name Last Name";
+
+/* Class = "UITextField"; placeholder = "Code d'invitation"; ObjectID = "VSN-aZ-aDW"; */
+"VSN-aZ-aDW.placeholder" = "Invitation code";
+
+/* Class = "UILabel"; text = "Entrer le code d'invitation de votre ami"; ObjectID = "aZS-x5-yF4"; */
+"aZS-x5-yF4.text" = "Enter your friend's invitation code";
+
+/* Class = "UILabel"; text = "Rejoindre la jardinière d'un ami"; ObjectID = "gfM-co-bKa"; */
+"gfM-co-bKa.text" = "Join a friend's planter";
+
+/* Class = "UIButton"; normalTitle = "Rejoindre"; ObjectID = "y0n-Lp-Bv9"; */
+"y0n-Lp-Bv9.normalTitle" = "Join";
+
+/* Class = "UILabel"; text = "Etage 1"; ObjectID = "ydF-V1-k1s"; */
+"ydF-V1-k1s.text" = "Floor 1";

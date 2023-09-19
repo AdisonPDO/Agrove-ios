@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Le code d'invitation est disponible dans le profil de la personne qui détient la jardinière ou il vous a été envoyé par email / message"; ObjectID = "4dc-0Q-qq6"; */
+"4dc-0Q-qq6.text" = "Le code d'invitation est disponible dans le profil de la personne qui détient la jardinière ou il vous a été envoyé par email / message";
+
+/* Class = "UILabel"; text = "Jardinière"; ObjectID = "A1s-aP-iaz"; */
+"A1s-aP-iaz.text" = "Jardinière";
+
+/* Class = "UILabel"; text = "Jardinière \nBalcon"; ObjectID = "DUP-fx-0ls"; */
+"DUP-fx-0ls.text" = "Jardinière \nBalcon";
+
+/* Class = "UILabel"; text = "Prenom Nom"; ObjectID = "Q7w-li-x7b"; */
+"Q7w-li-x7b.text" = "Prenom Nom";
+
+/* Class = "UITextField"; placeholder = "Code d'invitation"; ObjectID = "VSN-aZ-aDW"; */
+"VSN-aZ-aDW.placeholder" = "Code d'invitation";
+
+/* Class = "UILabel"; text = "Entrer le code d'invitation de votre ami"; ObjectID = "aZS-x5-yF4"; */
+"aZS-x5-yF4.text" = "Entrer le code d'invitation de votre ami";
+
+/* Class = "UILabel"; text = "Rejoindre la jardinière d'un ami"; ObjectID = "gfM-co-bKa"; */
+"gfM-co-bKa.text" = "Rejoindre la jardinière d'un ami";
+
+/* Class = "UIButton"; normalTitle = "Rejoindre"; ObjectID = "y0n-Lp-Bv9"; */
+"y0n-Lp-Bv9.normalTitle" = "Rejoindre";
+
+/* Class = "UILabel"; text = "Etage 1"; ObjectID = "ydF-V1-k1s"; */
+"ydF-V1-k1s.text" = "Etage 1";

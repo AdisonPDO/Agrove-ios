@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController id="Y6W-OH-hqX" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="RAk-Mj-xDq" userLabel="Header">
+                                <rect key="frame" x="0.0" y="44" width="414" height="133.5"/>
+                                <subviews>
+                                    <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" bounces="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" contentInsetAdjustmentBehavior="never" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="coa-GE-ylH">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="133.5"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" white="0.75" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="10" minimumInteritemSpacing="10" id="WBB-4h-3EX">
+                                            <size key="itemSize" width="276" height="226"/>
+                                            <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                            <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                            <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                        </collectionViewFlowLayout>
+                                        <cells>
+                                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="pictureCell" id="RA2-QB-WmW" customClass="HeaderDashboardPictureCell" customModule="Agrove" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="-46.5" width="276" height="226"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                                                    <rect key="frame" x="0.0" y="0.0" width="276" height="226"/>
+                                                    <autoresizingMask key="autoresizingMask"/>
+                                                    <subviews>
+                                                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tomate" translatesAutoresizingMaskIntoConstraints="NO" id="VQo-0n-1cE">
+                                                            <rect key="frame" x="0.0" y="0.0" width="276" height="226"/>
+                                                        </imageView>
+                                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yfw-Ct-ySu">
+                                                            <rect key="frame" x="0.0" y="176" width="50" height="50"/>
+                                                            <constraints>
+                                                                <constraint firstAttribute="height" constant="50" id="3bq-fA-aWG"/>
+                                                                <constraint firstAttribute="width" constant="50" id="rft-iK-iZv"/>
+                                                            </constraints>
+                                                            <state key="normal" image="boutonSuppImage"/>
+                                                            <connections>
+                                                                <action selector="deletePictureTapped:" destination="RA2-QB-WmW" eventType="touchUpInside" id="3TS-FE-zjq"/>
+                                                            </connections>
+                                                        </button>
+                                                    </subviews>
+                                                </view>
+                                                <constraints>
+                                                    <constraint firstAttribute="bottom" secondItem="VQo-0n-1cE" secondAttribute="bottom" id="SI5-ad-qb7"/>
+                                                    <constraint firstAttribute="trailing" secondItem="VQo-0n-1cE" secondAttribute="trailing" id="Wxm-rw-7js"/>
+                                                    <constraint firstItem="yfw-Ct-ySu" firstAttribute="leading" secondItem="VQo-0n-1cE" secondAttribute="leading" id="ao6-Tj-2BT"/>
+                                                    <constraint firstItem="VQo-0n-1cE" firstAttribute="leading" secondItem="RA2-QB-WmW" secondAttribute="leading" id="tiY-JW-Sby"/>
+                                                    <constraint firstItem="yfw-Ct-ySu" firstAttribute="bottom" secondItem="VQo-0n-1cE" secondAttribute="bottom" id="vF8-Bm-svL"/>
+                                                    <constraint firstItem="VQo-0n-1cE" firstAttribute="top" secondItem="RA2-QB-WmW" secondAttribute="top" id="wAO-CU-xRp"/>
+                                                </constraints>
+                                                <connections>
+                                                    <outlet property="deletePicture" destination="yfw-Ct-ySu" id="k1T-VU-zXE"/>
+                                                    <outlet property="imagePicture" destination="VQo-0n-1cE" id="5Sd-bf-Raf"/>
+                                                </connections>
+                                            </collectionViewCell>
+                                        </cells>
+                                    </collectionView>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="m5d-B9-dF1" userLabel="addPicture">
+                                        <rect key="frame" x="325" y="84.5" width="50" height="50"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <state key="normal" image="boutonAjouterPhoto"/>
+                                    </button>
+                                    <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9BB-rA-sLQ">
+                                        <rect key="frame" x="0.0" y="77.5" width="50" height="50"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="50" id="AJP-0V-nhH"/>
+                                            <constraint firstAttribute="width" constant="50" id="AsT-Hl-o83"/>
+                                        </constraints>
+                                        <state key="normal" image="flechePrecedentVerte"/>
+                                    </button>
+                                    <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EH9-2y-7g3">
+                                        <rect key="frame" x="1316" y="77.5" width="50" height="50"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="50" id="Eym-HL-F0A"/>
+                                            <constraint firstAttribute="width" constant="50" id="Q7i-2Y-zKS"/>
+                                        </constraints>
+                                        <state key="normal" image="flecheSuivantVerte"/>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" red="0.92157727479999996" green="0.9215573668" blue="0.92156130079999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <variation key="default">
+                                    <mask key="subviews">
+                                        <exclude reference="9BB-rA-sLQ"/>
+                                        <exclude reference="EH9-2y-7g3"/>
+                                    </mask>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <mask key="subviews">
+                                        <include reference="9BB-rA-sLQ"/>
+                                        <include reference="EH9-2y-7g3"/>
+                                    </mask>
+                                </variation>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="RAk-Mj-xDq" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="iYt-5b-EXd"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="RAk-Mj-xDq" secondAttribute="trailing" id="zM3-mj-kEh"/>
+                            <constraint firstItem="RAk-Mj-xDq" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" id="zbh-Rc-5Mf"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="129" y="44"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="boutonAjouterPhoto" width="48" height="49"/>
+        <image name="boutonSuppImage" width="22" height="22"/>
+        <image name="flechePrecedentVerte" width="22" height="22"/>
+        <image name="flecheSuivantVerte" width="22" height="22"/>
+        <image name="tomate" width="900" height="949"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

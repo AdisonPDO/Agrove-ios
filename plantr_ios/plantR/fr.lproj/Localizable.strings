@@ -1,0 +1,370 @@
+/* 
+  Localizable.strings
+  plantR_ios
+
+  Created by Adison Pereira de oliveira on 02/03/2022.
+  Copyright © 2022 Agrove. All rights reserved.
+*/
+
+/* WishListVC*/
+
+"sow" = "Semer";
+"plant" = "Planter";
+"sow_or_plant" = "Semer ou planter";
+"sow_or_plant_your" = "Voulez-vous semer ou planter votre";
+"cancel" = "Annuler";
+
+/* WishListPositionPlantVC */
+
+"where_do_you_want_to_plant_your" = "Où voulez-vous planter votre";
+"where_do_you_want_to_sow_your" = "Où voulez-vous semer votre";
+"your_plants_were_well_added" = "Vos plantes ont bien été ajoutées";
+"your_plant_has_been_added" = "Votre plante a bien été ajoutée";
+"you_must_select_at_least_one_location" = "Vous devez sélectionner au moins un emplacement";
+
+/* NewGardenerOwnerVC */
+
+"you_have_joined_the_gardening_team" = "Vous avez rejoint l'équipe de la jardinière !";
+"you_have_encountered_a_problem_when_adding_to_the_team" = "Vous avez rencontré un problème lors de l'ajout a l'équipe";
+
+/* LoginVC */
+
+"a_content_is_empty" = "Un contenu est vide";
+"please_enter_your_email_address" = "Veuillez saisir votre adresse mail";
+"mail" = "Adresse mail";
+"send" = "Envoyer";
+"an_email_has_been_sent_to_you" = "Un email vous a été envoyé";
+
+/* SettingNameGardenerVC */
+
+"give_your_planter_a_name" = "Mettre un nom à votre jardinière !";
+
+/* ScannerVC */
+
+"the_qr_code_information_is_not_recognized" = "Les informations du QR Code ne sont pas reconnues, avez-vous démarré la Jardinière ?";
+"qr_error_code" = "QR Code erreur";
+"already_subscribe" = "Une équipe de jardiniers est déjà aux petits soins pour ce potager!";
+"you_have_already_subscribed_to_this_planter" = "Vous êtes déjà abonner sur cette Jardinière.";
+"already_linked" = "Déjà lié";
+"you_already_have_this_planter_in_your_list" = "Vous avez déjà cette Jardinière dans votre liste";
+"problem_of_twinning_at_the_planter" = "Probléme de jumalage à la Jardinière";
+
+/* AddToFollowVC */
+
+"the_request_to_be_added_to_the_team_sent" = "La demande d'ajout à l'équipe envoyée";
+"an_error_has_occurred" = "Une erreur est survenue !";
+
+/* SettingCityGardenerVC */
+
+"you_must_authorize_the_localization_of_the_agrove" = "Vous devez authoriser la localisation de l'application Agrove afin de pouvoir récupérer votre adresse.";
+"edit" = "Modifier";
+"an_error_occurred_while_retrieving_your_address" = "Une erreur est survenue lors de la récupération de votre adresse.";
+"you_need_to_enable_location_in_order_to_retrieve_your_address" = "Vous devez activé la localisation afin de pouvoir récupérer votre adresse.";
+"put_a_city_address_to_your_planter" = "Mettre une ville/adresse à votre jardinière !";
+"your_planter_is_fully_configured" = "Votre jardinière est complétement configuré !";
+
+/* AddGardenerSelectType */
+
+"classic_garden" = "Potager Classique";
+"in_a_square_in_a_pot_or" = "En carré, en pot ou en jardinière";
+"agrove_garden" = "Potager Agrove";
+"connected_garden_kits" = "Kits potager connectés";
+
+/* WhichSpecificTypeVC */
+
+"the_sensor_kit" = "Le kit capteur";
+"the_wall_kit" = "Le kit mural";
+"the_turnkey_kit" = "Le kit clé en main";
+"the_parcel" = "La parcelle";
+"small" = "Petit";
+"medium" = "Moyen";
+"big" = "Grand";
+"up_to" = "Jusqu'à :";
+"up_to_small" = "Jusqu'à 50cm2 ";
+"up_to_medium" = "Jusqu'à 75cm2";
+"up_to_big" = "Jusqu'à 1m2 ";
+"starting_from" = "À partir de:";
+"how_big_is_your_planter" = "Quelle est la taille de votre jardinière ?";
+"how_big_is_your_vegetable_patch" = "Quelle est la taille de votre carré potager ?";
+"how_big_is_your_pot" = "Quelle est la taille de votre pot ?";
+
+/* TypeSelectVC */
+
+"pot" = "Pot";
+"planter" = "Jardinière";
+"vegetable_patch" = "Carre potager";
+
+/* SelectingAgroveType */
+
+"up_to_50_cm" = "Jusqu'à 50 cm2";
+"up_to_75_cm" = "Jusqu'à 75 cm2";
+"more_than_1m2" = "Jusqu'à 1 m2";
+"small_f" = "Petite";
+"medium_f" = "Moyenne";
+"big_f" = "Grande";
+
+/* FormGardenerVC */
+
+"fill_in_all_the_information" = "Merci de remplir toutes les informations !";
+"vegetable_garden_added" = "Nouveau potager ajouté !";
+"a_problem_occurred" = "Un problème est survenue !";
+
+/* FormJumelageGardenerVC */
+
+"please_select_a_type_of_sunlight" = "Veillez séléctionner un ensoleillement";
+"shadow_all_day_long" = "à l'ombre toute la journée";
+"sun_in_the_morning" = "Soleil le matin ";
+"sun_in_the_afternoon" = "Soleil l'après midi ";
+"sun_all_day_long" = "Soleil toute la journée";
+"adress" = "Adresse";
+"address_of_the_planter" = "Addresse de la jardinière";
+"city" = "Ville";
+"name_of_the_city" = "Nom de la ville";
+"confirm" = "Valider";
+"please_fill_in_all_the_information" = "Merci de remplir toutes les informations !";
+"new_vegetable_garden_added!" = "Nouveau potager ajouté !";
+"please_select_a_location" = "Veillez séléctionner un emplacement";
+"garden" = "Jardin";
+"terasse" = "Terrasse";
+"balcony" = "Balcon";
+"window_railing" = "Rambarde de fenêtre";
+"inside" = "Intérieur";
+"north" = "Nord";
+"south" = "Sud";
+"east" = "Est";
+"west" = "Ouest";
+"south_east" = "Sud Est";
+"north_east" = "Nord Est";
+"south_west" = "Sud Ouest";
+"north_west" = "Nord Ouest";
+"undefined" = "non définie";
+"you_need_to_enable_location_in_order_to_retrieve_your_address" = "Vous devez activer la localisation afin de pouvoir récupérer votre adresse.";
+"an_error_occurred_while_updating_the_data_of_the_planter" = "Une erreur s'est produite lors de la mise à jour des données de la jardinière";
+
+/* PlantRVC */
+
+"perfectly_humid" = "Parfaitement humide";
+"good" = "Bon";
+"select_a_category" = "Selectionner une catégorie";
+"camera" = "Appareil photo";
+"photo_gallery" = "Gallerie de photos";
+"no_alert_for_the_moment" = "Aucune alerte pour le moment";
+"conditions_are_good_to_ensure_the_growth" = "Bravo ! Toutes les conditions sont bonnes pour garantir la croissance de vos cultures ! Vous recevrez des alertes ici en cas de problème.";
+"warning" = "Attention";
+"it_seems_that" = "Il semblerait que : \n";
+"your_soil_moisture_is" = " - Votre humidité du sol est";
+"your_battery_is" = " - Votre batterie";
+"your_water_level_is" = " - Votre niveau d'eau est";
+"congratulations" = "Félicitations";
+"well_done_Aal_the_conditions_are_right_to_guarantee_the_growth_of_your_crops" = "Bravo ! Toutes les conditions sont bonnes pour garantir la croissance de vos cultures !";
+"soil_misture" = "Humidité du sol";
+"battery" = "Batterie";
+"water_level" = "Niveau d'eau";
+"solar_power" = "Puissance solaire";
+"error" = "Erreur";
+"bad" = "Mauvais";
+
+"too_dry" = "Trop sèche";
+
+"slightly_humid" = "Légèrement humide";
+"too_humid" = "Trop humide";
+"do_you_really_want_to_delete_this_picture" = "Voulez vous vraiment supprimer cette photo";
+"delete" = "Supprimer";
+"be_careful" = "Attention";
+"climate_data_from_my_garden" = "DONNÉES CLIMATIQUES DE MON POTAGER";
+"climate_data_from_weather" = "DONNÉES CLIMATIQUES DE LA VILLE OÙ SE SITUE MON POTAGER";
+
+/* AddPlantSearchVC */
+
+"level" = "Étage";
+"row" = "Rangée";
+"to_sow" = "à semer";
+"to_plant" = "à planter";
+"or" = "ou";
+
+/* TasksVC */
+
+"to_dom" = "À RÉALISER";
+"jobs_donem" = "RÉALISÉES";
+"local" = "fr";
+"collect" = "Récolter";
+"you_have_no_task_to_archieve_because_you_have_not_yet_added_any_plants" = "Ajoutez une plante pour accéder à vos premières missions";
+"you_have_no_tasks_to_achieve_so_far" = "Bravo ! Vous êtes à jour de toutes vos missions !";
+"you_have_no_completed_tasks" = "Vous n'avez pas de tâches réalisées";
+
+/* SubscribeVC */
+
+"do_you_wish_to_stop_following_this_gardener" = "Souhaitez-vous ne plus suivre cette jardinière ?";
+
+/* AccountVC */
+
+"put_a_name_to_your_planter" = "Mettre un nom à votre jardinière !";
+"modification_done" = "Modification effectuée !";
+"are_you_sure_you_want_to_remove_your" = "Êtes-vous sur de bien vouloir retirer votre";
+"yes" = "Oui";
+"please_fill_all_the_blanks" = "Remplir tous les champs !";
+"identical_password" ="Mot de passe identique !";
+"the_change_has_been_mad" = "La modification à été effectuée !";
+"invitation_to_the_team" = "Invitation dans l'équipe";
+"you_are_invited_to_join_the_gardening_team" = "Vous êtes invité a rejoindre l'équipe de la jardinière";
+"the_link_has_been_shared" = "Le lien a bien été partagé!";
+"are_you_sure_you_want_to_disconnect" = "Voulez-vous vraiment vous déconnecter ?";
+"your" = "Votre";
+"is_no_longer_part_of_your_garden" = "ne fait plus partie de vos potagers";
+"a_problem_occurred_when_removing_the_connected_vegetable_garden" = "Un problème est survenue lors de la suppression du potager connecté";
+
+/* PopUpScanAddGardenerVC */
+
+"subscribe_to_a_planter" = "S'abonner à une jardinière";
+"to_track_a_planter,_please_scan_the_QR_Code_located_on_it" = "Pour suivre une jardinière, veuillez scanner le QR Code situé sur cette dernière";
+"add_a_planter" = "Ajouter une jardinière";
+
+/* AddPlantsVC */
+
+"all_plants" = "Toutles les plantes";
+
+/* ChangeNameVC */
+
+"the_plant_has_been_added" = "La plante a bien été ajoutée";
+"an_error_occurred_while_adding_the_plant,_please_try_again_later" = "Une erreur est survenue sur l'ajout de la plante, veuillez réessayer ultérieurement";
+"you_will_be_able_to_sow_your" = "Vous pourrez semer votre ";
+"in" = "dans";
+"month" = "mois";
+"please_wait_a_second" = "Un peu de patience !";
+"add_to_my_wishlist" = "Ajouter à ma liste d'envies";
+"the_plant_is_already_in_the_favorites_of_the_gardener" = "La plante est déjà dans les favoris de la jardinière";
+"ive_already_seeded" = "J'ai déjà semé";
+"ive_already_planted" = "J'ai déjà planté";
+"the_plant_has_been_added_in_the_wishlist" = "La plante a bien été mise dans la liste d'envie";
+"an_error_occurred_while_adding_to_the_wishlist" = "Une erreur c'est produite lors de l'ajout dans la liste d'envie";
+
+/* InfoPlantMyPlantsVC */
+
+"local_identifier" = "fr_FR";
+"estimated_harvest" = "récolte éstimée";
+"do_you_really_want_to_remove_this_plant" = "Voulez-vous vraiment supprimer cette plante ?";
+"remove" = "Supprimer";
+"your_plant_has_been_deleted" = "Votre plante a bien été supprimé";
+"day" = "jour";
+"days" = "jours";
+"remaining" = "restants";
+
+/* SelectDateAlreadyPlantVC */
+
+"when_did_you_sow_it" = "A quelle période l'avez-vous semer ?";
+"when_did_you_plant_it" = "A quelle période l'avez-vous planter ?";
+"you_must_select_a_date_before_today" = "Vous devez sélectionner une date antérieur à aujourd'hui";
+
+/* MyTeamVC */
+
+"would_you_like_to_remove_this_person_from_your_team" = "Souhaitez-vous retirer cette personne de votre équipe ?";
+"by_removing_this_person_from_the_team,_they_will_no_longer_have_access_to_the_planter" = "En retirant cette personne de l'équipe, elle n'aura plus accès à la jardinière";
+"why_constitue_team" = "Pourquoi constituer une équipe de jardiniers ?";
+"response_info_my_team" = "Pour collaborer au jardin en toute simplicité ! Tous les membres de l'équipe ont accès aux meme fonctionnalités. Dès que l'un d'entre eux réalise une mission, les autres sont informés par une notification.";
+"team_request_ask_title" = "Comment demander à rejoindre une équipe ?";
+"team_request_ask_desc" = " Les personnes qui ont accès au Qr Code de votre potager connecté peuvent demander à rejoindre votre équipe.Il leur suffit de scanner le Qr Code avec leur appli Agrove depuis l’ajout d’un potager.
+Pour ne plus recevoir de demande d’ajout, rendez-vous dans les réglages, en haut à droite de cet écran.";
+
+/* SubscribeMemberTeamCV */
+
+"people_cant_join_your_team_anymore" = "Potager bien vérrouillé";
+"people_can_now_join_your_team" = "Potager n'est plus vérrouillé";
+"are_you_sure_you_don't_want_to_withdraw_the_application_to_join" = "Etes-vous sûrs de vouloir refuser cette demande ?";
+"has_been_removed" = "a bien été retirer";
+"new_in_the_team" = "Nouveau dans la team";
+"joined_the_team" = "a rejoint l'équipe";
+
+/* AddNewFriendVC */
+
+"wrong_validation_code" = "Code de validation erroné !";
+"validation_code_validated" = "Code de validation validé";
+"please_enter_an_invitation_codep" = "Veuillez entrer un code d'invitation !";
+
+/* TaskDetailVC */
+
+"did_you_complete_the_mission" = "Avez-vous bien réalisé la mission";
+"not_yet" = "Non pas encore !";
+"task_completed" = "Tâche effectuée";
+"was_carried_out_by" = "a été éffectuée par";
+"on_the_plant" = "sur la plante";
+"of_the_planter" = "de la jardinière";
+"my_missions" = "Mes missions";
+"tools" = "Outils";
+"duration" = "Durée";
+"how_to_do" = "Comment faire ?";
+"done" = "C'est fait";
+"importance" = "Importance";
+
+/* TaskDetailDoneVC*/
+
+"mission_carried_out_by" = "Mission réalisée par";
+"at" = "le";
+
+
+/* AllTasksVC */
+
+"you_have_no_more_tasks_to_perform" = "Vous n'avez plus aucune tâche à effectuer !";
+"touch_a_task_to_get_its_details" = "Touchez une tâche pour avoir son détail";
+
+/* NewTaskDetailVC */
+
+"location" = "Emplacement";
+"highly_recommended" = "Fortement recommandée";
+"recommended" = "Recommandé";
+"realized_on" = "Réalisée le";
+"by" = "par";
+"empty" = "vide";
+"the_mission" = "La mission";
+
+/* rgpd */
+
+"manage_my_personal_data" = "Gérer mes données personnelles";
+
+/* task */
+
+"first" = "Premier";
+"second" = "Second";
+"third" = "Troisième";
+"fourth" = "Quatrième";
+
+/* irrig */
+
+"irrig_msg1" = "En fonction du type de terre utilisée une recalibration du seuil d’irrigation peut être nécessaire.\n\nSi l’arrosage se déclenche trop souvent (terre encore trop humide), réduisez ce seuil.\n\nSi l’arrosage ne se déclenche pas assez (terre trop sèche), augmentez le seuil.";
+
+"irrig_msg2" = "L’actualisation du seul peut prendre 15 minutes,
+vous pourrez paramétrer un nouveau seuil dès que ce réglage sera enregistré.";
+"irrig_msg3" = "Le dernier réglage à échoué";
+"irrig_msg4" = "Votre connexion LoRa est probablement en cause.";
+"define" = "DÉFINIR";
+"try_again" = "réessayer";
+"ok" = "OK";
+"text_seuil" = "Arroser quand le taux d’humidité du sol atteint :";
+"text_parameters" = "Réglage en cours depuis le : ";
+
+"is_lock_msg" = "Pour le moment elle est au complet et ne peut plus accueillir de nouveaux jardiniers.";
+"no_thanks" = "Non merci!";
+
+/* card plant */
+
+"semis" = "Semis";
+"recolt" = "Récolte";
+"carac" = "Caractéristique";
+"expo" = "Éxposition";
+"water" = "Eau";
+"res" = "Résistance au gel";
+"height" = "Hauteur";
+
+
+/* NOTIFICATIONS */
+
+"notif_battery" = "🚨 Batterie faible !";
+"notif_tank" = "🚰 Le réservoir est bientôt vide !";
+"notif_humidity" = "💧 L'humidité du sol est trop faible !";
+"notif_problem" = "⚠️ Attention";
+
+"notif_battery_desc" = "Veillez à bien orienter le panneau solaire.";
+"notif_tank_desc" = "Remplissez votre réservoir dès que possible";
+"notif_humidity_desc" = "Votre terre est trop sèche. Vérifiez que le système d'arrosage fonctionne correctement. En cas de problème vous pouvez arroser directement vous même.";
+"notif_problem_desc" = "Un problème à été détécté avec les capteurs";
+
+

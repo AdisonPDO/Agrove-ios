@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>branchagrove</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>dev.dev-id.fr</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Autorisez la connexion bluetooth pour pouvoir connecter la jardinière à cette application</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Autorisez la connexion bluetooth pour pouvoir connecter le jardinière à cette application</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Agrove souhaite utiliser votre caméra pour que vous puissiez partager les photos de votre potager ou scanner les qrcodes afin de s'abonner/ajouter une jardinière</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Agrove souhaite récupérer la Localisation du lieu de la jardiniere afin d'avoir une meilleur précision sur la récupération de la météo et ainsi optimiser au maximum votre jardinière</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Agrove souhaite que vous puissiez sélectionner des photos afin de les joindres à l'application</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Lato-black.ttf</string>
+		<string>Lato-BlackItalic.ttf</string>
+		<string>Lato-Bold.ttf</string>
+		<string>Lato-BoldItalic.ttf</string>
+		<string>Lato-Hairline.ttf</string>
+		<string>Lato-HairlineItalic.ttf</string>
+		<string>Lato-Italic.ttf</string>
+		<string>Lato-Light.ttf</string>
+		<string>Lato-LightItalic.ttf</string>
+		<string>Lato-Regular.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Splash</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>branch_app_domain</key>
+	<string>v2nf2.app.link</string>
+	<key>branch_key</key>
+	<string>key_live_ckRZIlmucfZMxZP6vqCFubakyvaj9Pqs</string>
+	<key>branch_universal_link_domains</key>
+	<array>
+		<string>v2nf2.app.link</string>
+		<string>v2nf2-alternate.app.link</string>
+		<string>v2nf2.test-app.link</string>
+		<string>v2nf2-alternate.test-app.link</string>
+	</array>
+</dict>
+</plist>

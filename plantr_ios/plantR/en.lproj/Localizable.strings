@@ -1,0 +1,367 @@
+/* 
+  Localizable.strings
+  plantR_ios
+
+  Created by Adison Pereira de oliveira on 02/03/2022.
+  Copyright © 2022 Agrove. All rights reserved.
+*/
+
+/* WishListVC*/
+
+"sow" = "Sow";
+"plant" = "Plant";
+"sow_or_plant" = "Sow or plant";
+"sow_or_plant_your" = "Do you want to sow or plant your";
+"cancel" = "Cancel";
+
+/* WishListPositionPlantVC */
+
+"where_do_you_want_to_plant_your" = "Where do you want to plant your";
+"where_do_you_want_to_sow_your" = "Where do you want to sow your";
+"your_plants_were_well_added" = "Your plants were well added";
+"your_plant_has_been_added" = "Your plant has been added";
+"you_must_select_at_least_one_location" = "You must select at least; one location";
+
+/* NewGardenerOwnerVC */
+
+"you_have_joined_the_gardening_team" = "You have joined the gardening team!";
+"you_have_encountered_a_problem_when_adding_to_the_team" = "You have encountered a problem when adding to the team";
+
+/* LoginVC */
+
+"a_content_is_empty" = "A content is empty";
+"please_enter_your_email_address" = "Please enter your email address";
+"mail" = "Email";
+"send" = "Send";
+"an_email_has_been_sent_to_you" = "An email has been sent to you";
+
+/* SettingNameGardenerVC */
+
+"give_your_planter_a_name" = "Give your planter a name !";
+
+/* ScannerVC */
+
+"the_qr_code_information_is_not_recognized" = "The QR Code information is not recognized, did you start the Planter?";
+"qr_error_code" = "QR Error code";
+"already_subscribe" = "Already subscribe";
+"you_have_already_subscribed_to_this_planter" = "You have already subscribed to this Planter.";
+"already_linked" = "Already linked";
+"you_already_have_this_planter_in_your_list" = "You already have this Planter in your list";
+"problem_of_twinning_at_the_planter" = "Problem of twinning at the planter";
+
+/* AddToFollowVC */
+
+"the_request_to_be_added_to_the_team_sent" = "The request to be added to the team sent";
+"an_error_has_occurred" = "An error has occurred!";
+
+/* SettingCityGardenerVC */
+
+"you_must_authorize_the_localization_of_the_agrove" = "You must authorize the localization of the Agrove application in order to retrieve your address.";
+"edit" = "Edit";
+"an_error_occurred_while_retrieving_your_address" = "An error occurred while retrieving your address.";
+"you_need_to_enable_location_in_order_to_retrieve_your_address" = "You need to enable location in order to retrieve your address.";
+"put_a_city_address_to_your_planter" = "Put a city/address to your planter!";
+"your_planter_is_fully_configured" = "Your planter is fully configured!";
+
+/* AddGardenerSelectType */
+
+"classic_garden" = "Classic Garden";
+"in_a_square_in_a_pot_or" = "In a square, in a pot or in a window box";
+"agrove_garden" = "Agrove Garden";
+"connected_garden_kits" = "Smart Garden Kit";
+/* WhichSpecificTypeVC */
+
+"the_sensor_kit" = "The sensor kit";
+"the_wall_kit" = "The wall kit";
+"the_turnkey_kit" = "The turnkey kit";
+"the_parcel" = "The Parcel";
+"small" = "Small";
+"medium" = "Medium";
+"big" = "Big";
+"up_to" = "Up to :";
+"up_to_small" = "Up to : 30 cm x 30 cm ";
+"up_to_medium" = "Up to : 50 cm x 50 cm ";
+"up_to_big" = "starting from : 50 cm x 50 cm ";
+"starting_from" = "Starting from :";
+"how_big_is_your_planter" = "How big is your planter?";
+"how_big_is_your_vegetable_patch" = "How big is your vegetable patch?";
+"how_big_is_your_pot" = "How big is your pot?";
+
+/* TypeSelectVC */
+
+"pot" = "Pot";
+"planter" = "Gardener";
+"vegetable_patch" = "Vegetable patch";
+
+/* SelectingAgroveType */
+
+"up_to_50_cm" = "Up to 50 cm2";
+"up_to_75_cm" = "Up to 75 cm2";
+"more_than_1m2" = "More than 1m2";
+"small_f" = "Small";
+"medium_f" = "Medium";
+"big_f" = "Big";
+
+/* FormGardenerVC */
+
+"fill_in_all_the_information" = "Please fill in all the information!";
+"vegetable_garden_added" = "New vegetable garden added!";
+"a_problem_occurred" = "A problem occurred!";
+
+/* FormJumelageGardenerVC */
+
+"please_select_a_type_of_sunlight" = "Please select a type of sunlight";
+"shadow_all_day_long" = "Shadow all day long";
+"sun_in_the_morning" = "Sun in the morning";
+"sun_in_the_afternoon" = "Sun in the afternoon";
+"sun_all_day_long" = "Sun all day long";
+"adress" = "Adress";
+"address_of_the_planter" = "Address of the planter";
+"city" = "City";
+"name_of_the_city" = "Name of the city";
+"confirm" = "Confirm";
+"please_fill_in_all_the_information!" = "Please fill in all the information!";
+"new_vegetable_garden_added!" = "New vegetable garden added!";
+"please_select_a_location" = "Please select a location";
+"garden" = "Garden";
+"terasse" = "Terrasse";
+"balcony" = "Balcony";
+"window_railing" = "Window railing";
+"inside" = "Inside";
+"north" = "North";
+"south" = "South";
+"east" = "East";
+"west" = "West";
+"south_east" = "South East";
+"north_east" = "North East";
+"south_west" = "South West";
+"north_west" = "North West";
+"undefined" = "undefined";
+"you_need_to_enable_location_in_order_to_retrieve_your_address" = "You need to enable location in order to retrieve your address.";
+"an_error_occurred_while_updating_the_data_of_the_planter" = "An error occurred while updating the data of the planter";
+
+/* PlantRVC */
+
+"perfectly_humid" = "Perfectly humid";
+"good" = "Good";
+"select_a_category" = "Select a category";
+"camera" = "Camera";
+"photo_gallery" = "Photo Gallery";
+"no_alert_for_the_moment" = "No alert for the moment";
+"conditions_are_good_to_ensure_the_growth" = "Well done! All conditions are good to ensure the growth of your crops! You will receive alerts here in case of problems.";
+"warning" = "Warning";
+"it_seems_that" = "It seems that : \n";
+"your_soil_moisture_is" = " - Your soil moisture is";
+"your_battery_is" = " - Your battery is";
+"your_water_level_is" = " - Your water level is";
+"congratulations" = "Congratulations";
+"well_done_Aal_the_conditions_are_right_to_guarantee_the_growth_of_your_crops" = "Well done ! All the conditions are right to guarantee the growth of your crops!";
+"soil_misture" = "Soil Misture";
+"battery" = "Baterry";
+"water_level" = "Water Level";
+"solar_power" = "Solar power";
+"error" = "Error";
+"bad" = "Low";
+
+"too_dry" = "Too dry";
+
+"slightly_humid" = "Slightly humid";
+"too_humid" = "Too humid";
+"do_you_really_want_to_delete_this_picture" = "Do you really want to delete this picture";
+"delete" = "Delete";
+"be_careful" = "Be careful";
+"climate_data_from_my_garden" = "CLIMATE DATA FROM MY GARDEN";
+"climate_data_from_weather" = "CLIMATIC DATA OF THE CITY WHERE MY GARDEN IS LOCATED";
+
+/* AddPlantSearchVC */
+
+"level" = "Level";
+"row" = "Row";
+"to_sow" = "to sow";
+"to_plant" = "to plant";
+"or" = "or";
+
+/* TasksVC */
+
+"to_dom" = "TO ACHIEVE";
+"jobs_donem" = "CARRIED OUT";
+"local" = "en";
+"collect" = "Collect";
+"you_have_no_task_to_archieve_because_you_have_not_yet_added_any_plants" = "Add your first plant to access to your first gardening missions";
+"you_have_no_tasks_to_achieve_so_far" = "Congratulations! You've achieve all your missions !";
+"you_have_no_completed_tasks" = "You have no completed tasks";
+
+/* SubscribeVC */
+
+"do_you_wish_to_stop_following_this_gardener" = "Do you wish to stop following this gardener ?";
+
+/* AccountVC */
+
+"put_a_name_to_your_planter" = "Put a name to your planter !";
+"modification_done" = "Modification done !";
+"are_you_sure_you_want_to_remove_your" = "Are you sure you want to remove youre";
+"yes" = "Yes";
+"please_fill_all_the_blanks" = "Please fill all the blanks !";
+"identical_password" ="Identical password !";
+"the_change_has_been_mad" = "The modification has been made !";
+"invitation_to_the_team" = "Invitation to the team";
+"you_are_invited_to_join_the_gardening_team" = "You are invited to join the gardening team ";
+"the_link_has_been_shared" = "The link has been shared!";
+"are_you_sure_you_want_to_disconnect" = "Do you really want to disconnect?";
+"your" = "Your";
+"is_no_longer_part_of_your_garden" = "is no longer part of your garden";
+"a_problem_occurred_when_removing_the_connected_vegetable_garden" = "A problem occurred when removing the connected vegetable garden";
+
+/* PopUpScanAddGardenerVC */
+
+"subscribe_to_a_planter" = "Subscribe to a planter";
+"to_track_a_planter,_please_scan_the_QR_Code_located_on_it" = "To track a planter, please scan the QR Code located on it";
+"add_a_planter" = "Add a planter";
+
+/* AddPlantsVC */
+
+"all_plants" = "All plants";
+
+/* ChangeNameVC */
+
+"the_plant_has_been_added" = "The plant has been added";
+"an_error_occurred_while_adding_the_plant,_please_try_again_later" = "An error occurred while adding the plant, please try again later";
+"you_will_be_able_to_sow_your" = "You will be able to sow your ";
+"in" = "in";
+"month" = "month";
+"please_wait_a_second" = "Please wait a second!";
+"add_to_my_wishlist" = "Add to my wishlist";
+"the_plant_is_already_in_the_favorites_of_the_gardener" = "The plant is already in the favorites of the gardener";
+"ive_already_seeded" = "I've already seeded";
+"ive_already_planted" = "I've already planted";
+"the_plant_has_been_added_in_the_wishlist" = "The plant has been added in the wishlist";
+"an_error_occurred_while_adding_to_the_wishlist" = "An error occurred while adding to the wishlist";
+
+/* InfoPlantMyPlantsVC */
+
+"local_identifier" = "en_EN";
+"estimated_harvest" = "estimated harvest";
+"do_you_really_want_to_remove_this_plant" = "Do you really want to remove this plant?";
+"remove"= "Remove";
+"your_plant_has_been_deleted" = "Your plant has been deleted";
+"day" = "day";
+"days" = "days";
+"remaining" = " remaining";
+
+/* SelectDateAlreadyPlantVC */
+
+"when_did_you_sow_it" = "When did you sow it?";
+"when_did_you_plant_it" = "When did you plant it?";
+"you_must_select_a_date_before_today" = "You must select a date before today";
+
+/* MyTeamVC */
+
+"would_you_like_to_remove_this_person_from_your_team" = "Are you sure to remove this person from your team?";
+"by_removing_this_person_from_the_team,_they_will_no_longer_have_access_to_the_planter" = "By removing this person from the team, they will no longer have access to the planter";
+"why_constitue_team" = "Why form a team of gardeners?";
+"response_info_my_team" = "To collaborate in the garden with ease! All team members have access to the same features. As soon as one of them completes a mission, the others are informed by a notification.";
+"team_request_ask_title" = "How to apply to join a team ?";
+"team_request_ask_desc" = "People who have access to the Qr Code of your connected vegetable garden can ask to join your team by scanning the Qr Code with their Agrove app from the add a vegetable garden.
+If you don't want to receive any more requests to join your team, go to the settings, on the top right of this screen.";
+
+/* SubscribeMemberTeamCV */
+
+"people_cant_join_your_team_anymore" = "People can't join your team anymore";
+"people_can_now_join_your_team" = "People can now join your team";
+"are_you_sure_you_don't_want_to_withdraw_the_application_to_join" = "Are you sure you don't want to withdraw the application to join";
+"has_been_removed" = "has been removed";
+"new_in_the_team" = "New in the team";
+"joined_the_team" = "joined the team";
+
+/* AddNewFriendVC */
+
+"wrong_validation_code" = "Wrong validation code!";
+"validation_code_validated" = "Validation code validated";
+"please_enter_an_invitation_codep" = "Please enter an invitation code!";
+
+/* TaskDetailVC */
+
+"did_you_complete_the_mission" = "Did you complete the mission";
+"not_yet" = "Not yet!";
+"task_completed" = "Task completed";
+"was_carried_out_by" = "was carried out by";
+"on_the_plant" = "on the plant";
+"of_the_planter" = "of the planter";
+"my_missions" = "My misions";
+"tools" = "Tools";
+"duration" = "Duration";
+"how_to_do" = "How to do ?";
+"done" = "It's done";
+"importance" = "Importance";
+
+
+/* TaskDetailDoneVC*/
+
+"mission_carried_out_by" = "Mission carried out by";
+"at" = "at";
+
+/* AllTasksVC */
+
+"you_have_no_more_tasks_to_perform" = "You have no more tasks to perform!!";
+"touch_a_task_to_get_its_details" = "Touch a task to get its details";
+
+/* NewTaskDetailVC */
+
+"location" = "Location";
+"highly_recommended" = "Highly recommended";
+"recommended" = "Recommended";
+"realized_on" = "Réalized on";
+"by" = "by";
+"empty" = "empty";
+"the_mission" = "The mission";
+
+
+/* rgpd */
+
+"manage_my_personal_data" = "Manage my personal data";
+
+/* task */
+
+"first" = "First";
+"second" = "Second";
+"third" = "Third";
+"fourth" = "Fourth";
+
+/* irrig */
+
+"irrig_msg1" = "Depending on the type of soil used, a recalibration of the irrigation threshold may be necessary.\n \nIf the watering is triggered too often (soil still too wet), reduce this threshold\n\ nIf the watering does not start enough (soil too dry), increase the threshold.";
+
+"irrig_msg2" = "Updating the single may take 15 minutes,\nyou can set a new threshold as soon as this setting is saved.";
+"irrig_msg3" = "Last setting failed";
+"irrig_msg4" = "Your LoRa connection is probably at fault.";
+"define" = "DEFINE";
+"ok" = "OK";
+"try_again" = "try again";
+"text_seuil" = "Water when soil moisture content reaches :";
+"text_parameters" = "Setting in progress since : ";
+
+
+"is_lock_msg" = "For the moment it is complete and can no longer accommodate new gardeners.";
+"no_thanks" = "No thanks!";
+
+/* card plant */
+
+"semis" = "Sowing";
+"recolt" = "Harvest";
+"carac" = "Characteristic";
+"expo" = "Exposure";
+"water" = "Water";
+"res" = "Frost resistance";
+"height" = "Height";
+
+/* NOTIFICATIONS */
+
+"notif_battery" = "🚨 Low battery!";
+"notif_tank" = "🚰 The tank is almost empty!";
+"notif_humidity" = "💧 The soil moisture is too low!";
+"notif_problem" = "⚠️ Attention";
+
+"notif_battery_desc" = "Be sure to orient the solar panel properly.";
+"notif_tank_desc" = "Fill your tank as soon as possible";
+"notif_humidity_desc" = "Your soil is too dry. Check that the watering system is working properly. In case of problem you can water directly yourself.";
+"notif_problem_desc" = "A problem has been detected with the sensors";

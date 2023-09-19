@@ -1,0 +1,48 @@
+
+/* Class = "UINavigationItem"; title = " "; ObjectID = "69v-zM-wiZ"; */
+"69v-zM-wiZ.title" = " ";
+
+/* Class = "UIViewController"; title = " "; ObjectID = "7S4-nP-dGW"; */
+"7S4-nP-dGW.title" = " ";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "8Qe-2V-a80"; */
+"8Qe-2V-a80.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Mot de passe oublié"; ObjectID = "9dp-ym-na3"; */
+"9dp-ym-na3.normalTitle" = "Forgot your password?";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "9eU-um-M3e"; */
+"9eU-um-M3e.placeholder" = "Email";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "GGo-35-XhU"; */
+"GGo-35-XhU.title" = " ";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "UAg-tx-71H"; */
+"UAg-tx-71H.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Prénom"; ObjectID = "Zrd-k4-6a4"; */
+"Zrd-k4-6a4.placeholder" = "First name";
+
+/* Class = "UITextField"; placeholder = "Nom"; ObjectID = "aJN-QN-Eov"; */
+"aJN-QN-Eov.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Se connecter"; ObjectID = "bhn-an-9nc"; */
+"bhn-an-9nc.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Nouveau compte"; ObjectID = "eMX-ka-reM"; */
+"eMX-ka-reM.text" = "New account";
+
+/* Class = "UILabel"; text = "Cultivons notre avenir"; ObjectID = "eT4-Qu-R3S"; */
+"eT4-Qu-R3S.text" = "Growing our future";
+
+/* Class = "UIButton"; normalTitle = "Créer un compte"; ObjectID = "jb3-Wm-3sY"; */
+"jb3-Wm-3sY.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Créer"; ObjectID = "ppN-OF-nDx"; */
+"ppN-OF-nDx.normalTitle" = "Create";
+
+/* Class = "UITextField"; placeholder = "Confirmation de mot de passe"; ObjectID = "quB-u3-H1T"; */
+"quB-u3-H1T.placeholder" = "Password Confirmation";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "wxd-w4-z2R"; */
+"wxd-w4-z2R.placeholder" = "Email";

@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Puissance solaire"; ObjectID = "1Ft-pQ-7f3"; */
+"1Ft-pQ-7f3.text" = "Puissance solaire";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Tl-hz-zst"; */
+"3Tl-hz-zst.text" = "Label";
+
+/* Class = "UILabel"; text = "Humidité du sol"; ObjectID = "3a8-17-69R"; */
+"3a8-17-69R.text" = "Humidité du sol";
+
+/* Class = "UILabel"; text = "8000 Lum"; ObjectID = "9dK-yU-Hor"; */
+"9dK-yU-Hor.text" = "8000 Lum";
+
+/* Class = "UILabel"; text = "70 %"; ObjectID = "Dkb-Sm-2eF"; */
+"Dkb-Sm-2eF.text" = "70 %";
+
+/* Class = "UILabel"; text = "32°"; ObjectID = "PVn-BZ-ts5"; */
+"PVn-BZ-ts5.text" = "32°";
+
+/* Class = "UILabel"; text = "Luminosité"; ObjectID = "WEQ-7y-5jq"; */
+"WEQ-7y-5jq.text" = "Luminosité";
+
+/* Class = "UILabel"; text = "Vent"; ObjectID = "Wpt-c1-Tbv"; */
+"Wpt-c1-Tbv.text" = "Vent";
+
+/* Class = "UILabel"; text = "Bon"; ObjectID = "YgV-cj-YYy"; */
+"YgV-cj-YYy.text" = "Bon";
+
+/* Class = "UILabel"; text = "Batterie"; ObjectID = "gLN-Wp-FAh"; */
+"gLN-Wp-FAh.text" = "Batterie";
+
+/* Class = "UILabel"; text = "So 8km/h"; ObjectID = "mV1-3C-hsQ"; */
+"mV1-3C-hsQ.text" = "So 8km/h";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "p4F-l7-chh"; */
+"p4F-l7-chh.text" = "Label";
+
+/* Class = "UILabel"; text = "Humidité de l'air"; ObjectID = "voj-YX-Mt0"; */
+"voj-YX-Mt0.text" = "Humidité de l'air";
+
+/* Class = "UILabel"; text = "Niveau d'eau"; ObjectID = "w6z-NM-xdt"; */
+"w6z-NM-xdt.text" = "Niveau d'eau";

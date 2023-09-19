@@ -1,0 +1,55 @@
+
+/* Class = "UILabel"; text = "Pression"; ObjectID = "Dvn-2X-bBd"; */
+"Dvn-2X-bBd.text" = "Pression";
+
+/* Class = "UILabel"; text = "Bon"; ObjectID = "Gov-8d-xVZ"; */
+"Gov-8d-xVZ.text" = "Bon";
+
+/* Class = "UILabel"; text = "Luminosité"; ObjectID = "JYS-dy-Zir"; */
+"JYS-dy-Zir.text" = "Luminosité";
+
+/* Class = "UILabel"; text = "32°"; ObjectID = "LNX-mB-BRO"; */
+"LNX-mB-BRO.text" = "32°";
+
+/* Class = "UILabel"; text = "NIVEAU D'EAU"; ObjectID = "Qnc-FS-NZ5"; */
+"Qnc-FS-NZ5.text" = "NIVEAU D'EAU";
+
+/* Class = "UILabel"; text = "32°"; ObjectID = "RAc-66-28T"; */
+"RAc-66-28T.text" = "32°";
+
+/* Class = "UILabel"; text = "Humidité de l'air"; ObjectID = "SWd-n2-pF9"; */
+"SWd-n2-pF9.text" = "Humidité de l'air";
+
+/* Class = "UILabel"; text = "HUMIDITÉ DU SOL"; ObjectID = "VMn-Bf-IC6"; */
+"VMn-Bf-IC6.text" = "HUMIDITÉ DU SOL";
+
+/* Class = "UILabel"; text = "Température"; ObjectID = "Yan-Bj-6Iz"; */
+"Yan-Bj-6Iz.text" = "Température";
+
+/* Class = "UILabel"; text = "32°"; ObjectID = "ahm-LS-MML"; */
+"ahm-LS-MML.text" = "32°";
+
+/* Class = "UILabel"; text = "Bon"; ObjectID = "eRf-YE-l5t"; */
+"eRf-YE-l5t.text" = "Bon";
+
+/* Class = "UILabel"; text = "Bon"; ObjectID = "hAp-lC-mQC"; */
+"hAp-lC-mQC.text" = "Bon";
+
+/* Class = "UILabel"; text = "32°"; ObjectID = "jcu-kF-0rV"; */
+"jcu-kF-0rV.text" = "32°";
+
+
+/* Class = "UILabel"; text = "BATERRIE"; ObjectID = "rlr-x6-dyI"; */
+"rlr-x6-dyI.text" = "BATERRIE";
+
+"fJx-jm-oNM.image" = "image0_monpotager";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "t3k-ct-897"; */
+"t3k-ct-897.text" = "%";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wFB-9D-DXw"; */
+"wFB-9D-DXw.normalTitle" = "Button";
+
+"EYr-3C-VYE.text" = "Régler l'arrosage";
+
+"8p4-qU-NE1.normalTitle" = "Régler l'arrosage";

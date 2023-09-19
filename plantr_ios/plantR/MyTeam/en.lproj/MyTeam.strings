@@ -1,0 +1,62 @@
+
+/* Class = "UILabel"; text = "L'accès à mon équipe"; ObjectID = "6et-dc-1ei"; */
+"6et-dc-1ei.text" = "Access to my team";
+
+/* Class = "UITextView"; text = "Ici, je réponds aux personnes qui aimeraient rejoindre mon équipe"; ObjectID = "QvJ-o2-YJi"; */
+"xHo-F3-j9X.text" = "Here, I answer to people who would like to join my team";
+
+/* Class = "UIButton"; configuration.title = "En savoir plus"; ObjectID = "XDZ-mw-0iU"; */
+"XDZ-mw-0iU.configuration.title" = "Read more";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XDZ-mw-0iU"; */
+"XDZ-mw-0iU.normalTitle" = "Read more";
+
+/* Class = "UIButton"; configuration.title = "SUPPRIMER"; ObjectID = "acL-91-fgP"; */
+"acL-91-fgP.configuration.title" = "DELETE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "acL-91-fgP"; */
+"acL-91-fgP.normalTitle" = "DELETE";
+
+/* Class = "UIButton"; configuration.title = "CONFIRMER"; ObjectID = "mID-VB-EWt"; */
+"mID-VB-EWt.configuration.title" = "CONFIRM";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mID-VB-EWt"; */
+"mID-VB-EWt.normalTitle" = "CONFIRM";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mIG-GD-2YE"; */
+"mIG-GD-2YE.text" = "Label";
+
+/* Class = "UILabel"; text = "Mon équipe"; ObjectID = "u5O-kL-9Iq"; */
+"u5O-kL-9Iq.text" = "My team";
+
+/* Class = "UILabel"; text = "Ici, j'invite les personnes qui jardinent avec moi !"; ObjectID = "vPv-73-End"; */
+"vPv-73-End.text" = "Here, I invite the people who garden with me!";
+
+/* Class = "UIButton"; configuration.title = "En savoir plus"; ObjectID = "xDF-uy-Cje"; */
+"xDF-uy-Cje.configuration.title" = "Read more";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xDF-uy-Cje"; */
+"xDF-uy-Cje.normalTitle" = "Read more";
+
+/* Class = "UILabel"; text = "Demandes en attente"; ObjectID = "ztk-1t-6mo"; */
+"ztk-1t-6mo.text" = "Pending applications";
+
+
+/* Class = "UIButton"; configuration.title = "En savoir plus"; ObjectID = "qch-PY-T6h"; */
+"qch-PY-T6h.configuration.title" = "Read more";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qch-PY-T6h"; */
+"qch-PY-T6h.normalTitle" = "Read more";
+
+/* Class = "UIButton"; configuration.title = "En savoir plus"; ObjectID = "KDe-Kh-AM3"; */
+"KDe-Kh-AM3.configuration.title" = "Read more";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KDe-Kh-AM3"; */
+"KDe-Kh-AM3.normalTitle" = "Read more";
+
+/* Class = "UILabel"; text = "J'accepte de recevoir des demandes d'integration"; ObjectID = "qny-JI-iLl"; */
+"qny-JI-iLl.text" = "I agree to receive integration requests";
+
+"oyX-hJ-8HF.text" = "Why form a team of gardeners?";
+
+"0bH-Hs-S43.text" = "To collaborate in the garden with ease! All team members have access to the same features. \n\nAs soon as one of them completes a mission, the others are informed by a notification.";

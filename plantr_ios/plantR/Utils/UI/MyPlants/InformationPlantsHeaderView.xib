@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Lato-Bold.ttf">
+            <string>Lato-Bold</string>
+        </array>
+        <array key="Lato-Light.ttf">
+            <string>Lato-Light</string>
+        </array>
+        <array key="Lato-Regular.ttf">
+            <string>Lato-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="InformationPlantsHeaderView" customModule="Agrove" customModuleProvider="target">
+            <connections>
+                <outlet property="caracLabel" destination="OQg-EA-gJJ" id="CQy-kX-rDl"/>
+                <outlet property="descriptionLabel" destination="gcQ-m9-z8r" id="zjc-zH-wEN"/>
+                <outlet property="exhibitionStackView" destination="opv-W1-0cG" id="guz-PG-O5d"/>
+                <outlet property="expoLabel" destination="DpB-st-Myi" id="Qbv-G0-hs9"/>
+                <outlet property="freezeStackView" destination="wes-dQ-Npz" id="sKb-qF-FX8"/>
+                <outlet property="heighLabel" destination="trN-z1-LUM" id="NRL-LX-LWj"/>
+                <outlet property="heightLabel" destination="D17-wX-por" id="hIx-OE-21g"/>
+                <outlet property="mainView" destination="YUX-n7-aYx" id="3db-gc-lhc"/>
+                <outlet property="recoltLabel" destination="Soh-WC-vkE" id="cSc-fC-BMo"/>
+                <outlet property="resLabel" destination="dBk-Yz-y93" id="ezf-vV-5QR"/>
+                <outlet property="semisLabel" destination="7OF-4q-gEH" id="iCX-Xt-UOX"/>
+                <outlet property="waterLabel" destination="dP2-kb-Hbs" id="3ZN-kv-tR9"/>
+                <outlet property="waterStackView" destination="eZ1-Hx-BaK" id="lI3-Hi-y3W"/>
+                <outletCollection property="seedlingArrayLabel" destination="U0C-ip-WmS" collectionClass="NSMutableArray" id="5fM-0s-qVl"/>
+                <outletCollection property="seedlingArrayLabel" destination="2yL-nX-4uR" collectionClass="NSMutableArray" id="dmh-Ym-SIE"/>
+                <outletCollection property="seedlingArrayLabel" destination="C6M-4Q-zi2" collectionClass="NSMutableArray" id="5dm-93-QGN"/>
+                <outletCollection property="seedlingArrayLabel" destination="dhX-ac-btn" collectionClass="NSMutableArray" id="lCl-VI-2WE"/>
+                <outletCollection property="seedlingArrayLabel" destination="Y4E-bN-SCo" collectionClass="NSMutableArray" id="5RT-5e-MSk"/>
+                <outletCollection property="seedlingArrayLabel" destination="yC1-5W-4BH" collectionClass="NSMutableArray" id="Ksx-Kh-IbV"/>
+                <outletCollection property="seedlingArrayLabel" destination="ad0-Os-Buf" collectionClass="NSMutableArray" id="C5P-4s-6Kt"/>
+                <outletCollection property="seedlingArrayLabel" destination="ReK-MH-Pwq" collectionClass="NSMutableArray" id="MTi-v4-w0P"/>
+                <outletCollection property="seedlingArrayLabel" destination="1DQ-uj-57V" collectionClass="NSMutableArray" id="qhD-7M-6xL"/>
+                <outletCollection property="seedlingArrayLabel" destination="4VK-fr-4ls" collectionClass="NSMutableArray" id="BDV-dt-Er7"/>
+                <outletCollection property="seedlingArrayLabel" destination="fSq-LB-mMl" collectionClass="NSMutableArray" id="Ivz-Yn-vg2"/>
+                <outletCollection property="seedlingArrayLabel" destination="pCF-mF-bPL" collectionClass="NSMutableArray" id="iwa-JT-cZp"/>
+                <outletCollection property="harvestArrayLabel" destination="eQG-IH-Vue" collectionClass="NSMutableArray" id="4zJ-S0-V7Y"/>
+                <outletCollection property="harvestArrayLabel" destination="nkV-MK-ycL" collectionClass="NSMutableArray" id="XfJ-Rb-3yf"/>
+                <outletCollection property="harvestArrayLabel" destination="AcA-EI-Crr" collectionClass="NSMutableArray" id="yNP-uZ-PnL"/>
+                <outletCollection property="harvestArrayLabel" destination="NSo-6Y-Vze" collectionClass="NSMutableArray" id="oCd-sh-G5k"/>
+                <outletCollection property="harvestArrayLabel" destination="KYa-tk-Uml" collectionClass="NSMutableArray" id="5oe-kN-O7I"/>
+                <outletCollection property="harvestArrayLabel" destination="EWp-Y2-fYf" collectionClass="NSMutableArray" id="gIr-Cq-cSa"/>
+                <outletCollection property="harvestArrayLabel" destination="LpA-fW-Pie" collectionClass="NSMutableArray" id="59j-0H-uQ9"/>
+                <outletCollection property="harvestArrayLabel" destination="UTx-Qz-8J1" collectionClass="NSMutableArray" id="tW0-0B-e2Z"/>
+                <outletCollection property="harvestArrayLabel" destination="M74-GQ-81q" collectionClass="NSMutableArray" id="vMG-VV-eF9"/>
+                <outletCollection property="harvestArrayLabel" destination="kGg-sQ-Qhi" collectionClass="NSMutableArray" id="37m-TC-ZqH"/>
+                <outletCollection property="harvestArrayLabel" destination="6j1-TH-1O4" collectionClass="NSMutableArray" id="rdu-CB-SZr"/>
+                <outletCollection property="harvestArrayLabel" destination="Sj2-QQ-F9V" collectionClass="NSMutableArray" id="pz6-By-WOW"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="YUX-n7-aYx">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="399"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HDy-tw-geO">
+                    <rect key="frame" x="15" y="15" width="384" height="374"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="qvQ-x8-aAX">
+                            <rect key="frame" x="0.0" y="0.0" width="384" height="92"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="11" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="gcQ-m9-z8r">
+                                    <rect key="frame" x="0.0" y="10" width="384" height="72"/>
+                                    <string key="text">Les tomates cerises, c’est plus facile à cultiver que les tomates plus grosses : elles ne requièrent pas de taille, ni d’entretien, sont rarement malade et sont délicieuses à l’apéro ou en salade!</string>
+                                    <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="15"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="92" id="mzx-sZ-wT2"/>
+                            </constraints>
+                        </stackView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Semis" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7OF-4q-gEH" userLabel="Semis">
+                            <rect key="frame" x="0.0" y="107" width="39.5" height="18"/>
+                            <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="15"/>
+                            <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="aqQ-Bv-rk2" userLabel="Semis Stack">
+                            <rect key="frame" x="0.0" y="135" width="384" height="15"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="J" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="U0C-ip-WmS">
+                                    <rect key="frame" x="0.0" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="1" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="F" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2yL-nX-4uR">
+                                    <rect key="frame" x="32" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="2" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="M" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="C6M-4Q-zi2">
+                                    <rect key="frame" x="64" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="3" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="A" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dhX-ac-btn">
+                                    <rect key="frame" x="96" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="4" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="M" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Y4E-bN-SCo">
+                                    <rect key="frame" x="128" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="5" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="J" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yC1-5W-4BH">
+                                    <rect key="frame" x="160" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="6" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="J" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ad0-Os-Buf">
+                                    <rect key="frame" x="192" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="7" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="A" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ReK-MH-Pwq">
+                                    <rect key="frame" x="224" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="8" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="S" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1DQ-uj-57V">
+                                    <rect key="frame" x="256" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="9" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="O" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4VK-fr-4ls">
+                                    <rect key="frame" x="288" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="10" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="N" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fSq-LB-mMl">
+                                    <rect key="frame" x="320" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" tag="11" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="D" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pCF-mF-bPL">
+                                    <rect key="frame" x="352" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="15" id="EQa-MV-Zbl"/>
+                            </constraints>
+                        </stackView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Récolte" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Soh-WC-vkE" userLabel="Récolte">
+                            <rect key="frame" x="0.0" y="165" width="51.5" height="18"/>
+                            <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="15"/>
+                            <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="6SU-bu-0Tg" userLabel="Harvest Stack">
+                            <rect key="frame" x="0.0" y="193" width="384" height="15"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="J" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eQG-IH-Vue">
+                                    <rect key="frame" x="0.0" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="F" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nkV-MK-ycL">
+                                    <rect key="frame" x="32" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="M" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AcA-EI-Crr">
+                                    <rect key="frame" x="64" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="A" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NSo-6Y-Vze">
+                                    <rect key="frame" x="96" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="M" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KYa-tk-Uml">
+                                    <rect key="frame" x="128" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="J" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EWp-Y2-fYf">
+                                    <rect key="frame" x="160" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="J" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LpA-fW-Pie">
+                                    <rect key="frame" x="192" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="A" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UTx-Qz-8J1">
+                                    <rect key="frame" x="224" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="S" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M74-GQ-81q">
+                                    <rect key="frame" x="256" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="O" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kGg-sQ-Qhi">
+                                    <rect key="frame" x="288" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="N" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6j1-TH-1O4">
+                                    <rect key="frame" x="320" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="D" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Sj2-QQ-F9V">
+                                    <rect key="frame" x="352" y="0.5" width="32" height="14.5"/>
+                                    <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="12"/>
+                                    <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="15" id="io7-j5-jvx"/>
+                            </constraints>
+                        </stackView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Caractéristique" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OQg-EA-gJJ">
+                            <rect key="frame" x="0.0" y="223" width="104.5" height="18"/>
+                            <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="15"/>
+                            <color key="textColor" red="0.52949458360000001" green="0.85699152950000002" blue="0.65878897910000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="lLA-j7-gFl">
+                            <rect key="frame" x="25" y="256" width="192.5" height="103"/>
+                            <subviews>
+                                <stackView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" verticalHuggingPriority="249" horizontalCompressionResistancePriority="749" axis="vertical" distribution="fillProportionally" alignment="top" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="YEn-7Y-6JL" userLabel="Name">
+                                    <rect key="frame" x="0.0" y="5" width="116.5" height="93"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Exposition" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DpB-st-Myi">
+                                            <rect key="frame" x="0.0" y="0.0" width="72" height="19.5"/>
+                                            <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="16"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Eau" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dP2-kb-Hbs">
+                                            <rect key="frame" x="0.0" y="24.5" width="26" height="19.5"/>
+                                            <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="16"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Résistance au gel" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dBk-Yz-y93">
+                                            <rect key="frame" x="0.0" y="49" width="116.5" height="19.5"/>
+                                            <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="16"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hauteur" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="trN-z1-LUM">
+                                            <rect key="frame" x="0.0" y="73.5" width="57.5" height="19.5"/>
+                                            <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="16"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                </stackView>
+                                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" alignment="top" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="zDm-7t-fpF" userLabel="Stat">
+                                    <rect key="frame" x="136.5" y="0.0" width="56" height="103"/>
+                                    <subviews>
+                                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" alignment="center" spacing="7" translatesAutoresizingMaskIntoConstraints="NO" id="opv-W1-0cG" userLabel="Soleil">
+                                            <rect key="frame" x="0.0" y="0.0" width="56" height="14.5"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconeExposition" translatesAutoresizingMaskIntoConstraints="NO" id="DZa-ro-T0F">
+                                                    <rect key="frame" x="0.0" y="1" width="14" height="13"/>
+                                                </imageView>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconeExposition" translatesAutoresizingMaskIntoConstraints="NO" id="MAI-2t-qKq">
+                                                    <rect key="frame" x="21" y="1" width="14" height="13"/>
+                                                </imageView>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconeExposition" translatesAutoresizingMaskIntoConstraints="NO" id="DXS-iS-mxk">
+                                                    <rect key="frame" x="42" y="1" width="14" height="13"/>
+                                                </imageView>
+                                            </subviews>
+                                        </stackView>
+                                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" alignment="center" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="eZ1-Hx-BaK" userLabel="Eau">
+                                            <rect key="frame" x="0.0" y="29.5" width="54" height="14.5"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconeEau" translatesAutoresizingMaskIntoConstraints="NO" id="Wuo-6L-ToX">
+                                                    <rect key="frame" x="0.0" y="2" width="8" height="11"/>
+                                                </imageView>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconeEau" translatesAutoresizingMaskIntoConstraints="NO" id="FO0-6q-8bg">
+                                                    <rect key="frame" x="23" y="2" width="8" height="11"/>
+                                                </imageView>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconeEau" translatesAutoresizingMaskIntoConstraints="NO" id="niO-RP-p4G">
+                                                    <rect key="frame" x="46" y="2" width="8" height="11"/>
+                                                </imageView>
+                                            </subviews>
+                                        </stackView>
+                                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" alignment="center" spacing="11" translatesAutoresizingMaskIntoConstraints="NO" id="wes-dQ-Npz" userLabel="Gel">
+                                            <rect key="frame" x="0.0" y="59" width="55" height="14.5"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconeGel" translatesAutoresizingMaskIntoConstraints="NO" id="aLj-u2-SuK">
+                                                    <rect key="frame" x="0.0" y="1" width="11" height="13"/>
+                                                </imageView>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconeGel" translatesAutoresizingMaskIntoConstraints="NO" id="vcr-2M-rD3">
+                                                    <rect key="frame" x="22" y="1" width="11" height="13"/>
+                                                </imageView>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconeGel" translatesAutoresizingMaskIntoConstraints="NO" id="YWN-dU-eMA">
+                                                    <rect key="frame" x="44" y="1" width="11" height="13"/>
+                                                </imageView>
+                                            </subviews>
+                                        </stackView>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Taille" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="D17-wX-por">
+                                            <rect key="frame" x="0.0" y="88.5" width="27.5" height="14.5"/>
+                                            <fontDescription key="fontDescription" name="Lato-Regular" family="Lato" pointSize="12"/>
+                                            <color key="textColor" red="0.57647058819999997" green="0.86666666670000003" blue="0.69803921570000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                </stackView>
+                            </subviews>
+                        </stackView>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="6SU-bu-0Tg" firstAttribute="top" secondItem="Soh-WC-vkE" secondAttribute="bottom" constant="10" id="22g-9Z-Teg"/>
+                        <constraint firstItem="lLA-j7-gFl" firstAttribute="top" secondItem="OQg-EA-gJJ" secondAttribute="bottom" constant="15" id="3DM-11-gcH"/>
+                        <constraint firstItem="OQg-EA-gJJ" firstAttribute="top" secondItem="6SU-bu-0Tg" secondAttribute="bottom" constant="15" id="43K-rY-pPv"/>
+                        <constraint firstItem="qvQ-x8-aAX" firstAttribute="centerX" secondItem="HDy-tw-geO" secondAttribute="centerX" id="6dL-7j-QkO"/>
+                        <constraint firstItem="qvQ-x8-aAX" firstAttribute="top" secondItem="HDy-tw-geO" secondAttribute="top" id="DhN-wS-n6f"/>
+                        <constraint firstItem="lLA-j7-gFl" firstAttribute="leading" secondItem="HDy-tw-geO" secondAttribute="leading" constant="25" id="FMd-B0-Wqb"/>
+                        <constraint firstAttribute="trailing" secondItem="6SU-bu-0Tg" secondAttribute="trailing" id="H6q-2O-nCA"/>
+                        <constraint firstAttribute="bottom" secondItem="lLA-j7-gFl" secondAttribute="bottom" constant="15" id="Hrp-sL-kii"/>
+                        <constraint firstItem="7OF-4q-gEH" firstAttribute="leading" secondItem="HDy-tw-geO" secondAttribute="leading" id="Jbm-s8-4bb"/>
+                        <constraint firstItem="aqQ-Bv-rk2" firstAttribute="centerX" secondItem="HDy-tw-geO" secondAttribute="centerX" id="K3v-Bc-bkc"/>
+                        <constraint firstItem="OQg-EA-gJJ" firstAttribute="leading" secondItem="HDy-tw-geO" secondAttribute="leading" id="Lly-by-WtJ"/>
+                        <constraint firstItem="6SU-bu-0Tg" firstAttribute="leading" secondItem="HDy-tw-geO" secondAttribute="leading" id="O2B-Zl-zYu"/>
+                        <constraint firstItem="Soh-WC-vkE" firstAttribute="top" secondItem="aqQ-Bv-rk2" secondAttribute="bottom" constant="15" id="QS5-9y-ouc"/>
+                        <constraint firstItem="7OF-4q-gEH" firstAttribute="top" secondItem="qvQ-x8-aAX" secondAttribute="bottom" constant="15" id="USA-nI-fVn"/>
+                        <constraint firstItem="qvQ-x8-aAX" firstAttribute="leading" secondItem="HDy-tw-geO" secondAttribute="leading" id="W8H-Cu-yjK"/>
+                        <constraint firstItem="aqQ-Bv-rk2" firstAttribute="leading" secondItem="HDy-tw-geO" secondAttribute="leading" id="ab5-Gu-GkS"/>
+                        <constraint firstItem="aqQ-Bv-rk2" firstAttribute="top" secondItem="7OF-4q-gEH" secondAttribute="bottom" constant="10" id="dzu-QH-0H8"/>
+                        <constraint firstItem="Soh-WC-vkE" firstAttribute="leading" secondItem="HDy-tw-geO" secondAttribute="leading" id="uVY-Sq-2O4"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="iAJ-vj-vL2"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="iAJ-vj-vL2" firstAttribute="trailing" secondItem="HDy-tw-geO" secondAttribute="trailing" constant="15" id="2NZ-Hk-cU6">
+                    <variation key="heightClass=regular-widthClass=regular" constant="50"/>
+                </constraint>
+                <constraint firstItem="HDy-tw-geO" firstAttribute="top" secondItem="YUX-n7-aYx" secondAttribute="top" constant="15" id="q2R-vP-1qI">
+                    <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                </constraint>
+                <constraint firstAttribute="bottom" secondItem="HDy-tw-geO" secondAttribute="bottom" constant="10" id="r8T-RM-cQ1"/>
+                <constraint firstItem="HDy-tw-geO" firstAttribute="leading" secondItem="iAJ-vj-vL2" secondAttribute="leading" constant="15" id="tkq-vj-Ki3">
+                    <variation key="heightClass=regular-widthClass=regular" constant="50"/>
+                </constraint>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-142.02898550724638" y="207.25446428571428"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="iconeEau" width="8" height="11"/>
+        <image name="iconeExposition" width="14" height="13"/>
+        <image name="iconeGel" width="11" height="13"/>
+    </resources>
+</document>

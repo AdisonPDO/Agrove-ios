@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="FVC-Iv-WzR">
+    <device id="retina3_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--SplashVC-->
+        <scene sceneID="DVK-JF-NWX">
+            <objects>
+                <viewController id="F62-pu-Aez" customClass="SplashVC" customModule="Agrove" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="jT3-EM-uxi">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="backgorundLaunchNewVersion" translatesAutoresizingMaskIntoConstraints="NO" id="pNb-fc-OXm">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Ipm-TV-EWs"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="pNb-fc-OXm" secondAttribute="bottom" id="33s-1i-0YL"/>
+                            <constraint firstItem="pNb-fc-OXm" firstAttribute="leading" secondItem="Ipm-TV-EWs" secondAttribute="leading" id="KJr-1T-xPa"/>
+                            <constraint firstItem="Ipm-TV-EWs" firstAttribute="trailing" secondItem="pNb-fc-OXm" secondAttribute="trailing" id="Lbc-Sl-Nzr"/>
+                            <constraint firstItem="pNb-fc-OXm" firstAttribute="top" secondItem="jT3-EM-uxi" secondAttribute="top" id="VNl-GF-1El"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="yxE-Nd-7dk"/>
+                    <connections>
+                        <outlet property="bg" destination="pNb-fc-OXm" id="4Td-JF-4Ol"/>
+                        <segue destination="nur-36-Pjy" kind="presentation" identifier="goToLogin" animates="NO" modalPresentationStyle="fullScreen" id="H55-iD-QsZ"/>
+                        <segue destination="Gay-Xb-f0g" kind="presentation" identifier="goToHome" animates="NO" modalPresentationStyle="fullScreen" id="MQN-rD-wM8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2Sc-jb-4XG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1290.0439238653" y="99.0234375"/>
+        </scene>
+        <!--Login-->
+        <scene sceneID="5MB-ZP-3ZF">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="Login" storyboardName="Login" id="nur-36-Pjy" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Qge-fW-Gdj" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2091" y="245"/>
+        </scene>
+        <!--Home-->
+        <scene sceneID="GJB-n5-bIP">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="Home" storyboardName="Home" id="Gay-Xb-f0g" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vcv-i4-aeM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2090" y="-57"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="te4-l0-Hqn">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" navigationBarHidden="YES" id="FVC-Iv-WzR" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="lIR-cn-dFM">
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="F62-pu-Aez" kind="relationship" relationship="rootViewController" id="w7y-uM-qoU"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="OoX-Pb-vle" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="351.19999999999999" y="99.400299850074973"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="backgorundLaunchNewVersion" width="512" height="384"/>
+    </resources>
+</document>
